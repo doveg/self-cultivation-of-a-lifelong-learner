@@ -1,0 +1,48 @@
+@startmindmap
+
++[#OrangeRed] Health
+
+++[#yellow] 保健
+
++++[#Pink] 维生素
+
+++++[#MediumSpringGreen] 脂溶性维生素
+
++++++[#LightGreen]_ 最容易缺
+
++++++[#LightGreen] 维生素 A
+++++++[#Aquamarine] 来源：动物内脏，蛋黄，牛奶制品，类胡萝卜素（转化效率低）
+++++++[#LightBlue] 症状：夜盲症，干眼症，皮肤粗糙，角质化，鱼鳞
+
++++++[#LightGreen] 维生素 E
+++++++[#Aquamarine] 来源：坚果类（花生、瓜子、黄豆），植物油（芝麻油）
+++++++[#LightBlue] 症状：老年斑，黄褐斑，影响生育，孕妇会有流产风险
+
+
+++++[#MediumSpringGreen] 水溶性维生素
+
++++++[#LightGreen]_ B 族维生素比较安全，当天会随尿液排出
+
++++++[#AliceBlue] 维生素 B1
+++++++[#Aquamarine] 来源：麸皮和胚芽（粗粮、杂粮、杂豆、小麦），肉类（瘦肉、心肝肾）
+++++++[#LightBlue] 症状：脚气病，容易疲劳，厌食，记忆力下降，精力不足，四肢麻木
+++++++[#LightBlue] 注意：米饭只淘一遍
+++++++[#LightBlue] 推荐：干酵母片
+
++++++[#LightGreen] 维生素 B2
+++++++[#Aquamarine] 症状：口腔生殖综合征（口腔溃疡、口角炎、阴唇炎、阴囊炎），脂溢性皮炎
+++++++[#LightBlue] 中老年群体，中学生比例比较多
+
++++++[#LightGreen] 维生素 B7（生物素）
+++++++[#Aquamarine] 症状：白发（少白头），头发稀疏，脱发
+
++++++[#AliceBlue] 维生素 B9（叶酸）
+++++++[#Aquamarine] 症状：头晕，疲惫，记忆力减退，舌头疼
+++++++[#LightBlue] 补叶酸
+
+
+
+'https://www.bilibili.com/video/BV1BY411T7Q
+
+
+@endmindmap
