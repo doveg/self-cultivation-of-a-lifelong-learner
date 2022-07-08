@@ -2,51 +2,195 @@
 
 +[#OrangeRed] Vocabulary
 
-++[#yellow] 常见
+++[#yellow] verb
 
 +++[#Orange] 动词
 
 
 ++++[#Pink] 中性
 
+
++++++[#DeepSkyBlue] 论
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=assume assume]]
++++++++[#Aquamarine]_ 假设、没证据的相信
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=analyze analyze]]
++++++++[#Aquamarine]_ 分析
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=investigate investigate]]
++++++++[#Aquamarine]_ 调查、研究
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=demonstrate demonstrate]]
++++++++[#Aquamarine]_ 证明、举例子、展现
+++++++++[#Aquamarine]_ At eight years old, Mozart demonstrated his musical ability in London.
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=illustrate illustrate]]
++++++++[#Aquamarine]_ 说明、解释
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=identify identify]]
++++++++[#Aquamarine]_ 辨认、弄清楚
+
+
+
++++++[#DeepSkyBlue] 测
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=project project]]
++++++++[#Aquamarine]_ 工程、项目
++++++++[#Aquamarine]_ 预测
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=predict predict]]
++++++++[#Aquamarine]_ 预测
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=assess assess]]
++++++++[#Aquamarine]_ 估算
+++++++++[#Aquamarine]_ 鹅社死
+
+
+
+
++++++[#DeepSkyBlue] 势
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=trend trend]]
++++++++[#Aquamarine]_ 趋势
+
+
+
++++++[#DeepSkyBlue] 册
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=register register]]
++++++++[#Aquamarine]_ 注册、测量
+
+
++++++[#DeepSkyBlue] 重
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=stress stress]]
++++++++[#Aquamarine]_ 强调
++++++++[#Aquamarine]_ 压力
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=emphasize emphasize]]
++++++++[#Aquamarine]_ 强调
+++++++++[#Aquamarine]_ Most modern art emphasizes creativity and emotion, not skill.
+
+
+
+
++++++[#DeepSkyBlue] 异
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=constract constract]]
++++++++[#Aquamarine]_ 对照、明显不同于、对比差异
+
+
+
++++++[#DeepSkyBlue] 同
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=substitute substitute]]
++++++++[#Aquamarine]_ 替代
+++++++++[#Aquamarine]_ Because we don't have any, we substituted the sugar with juice.
++++++++[#Aquamarine]_ 替代品
++++++++[#Aquamarine]_ 杀不死替tu的
+
+
++++++[#DeepSkyBlue] 改
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=adjust adjust]]
++++++++[#Aquamarine]_ 调整、适应
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=modify modify]]
++++++++[#Aquamarine]_ 修改
+
+
++++++[#DeepSkyBlue] 含
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=involve involve]]
++++++++[#Aquamarine]_ 包含、涉及
+
+
+
 +++++[#DeepSkyBlue] 示
 
-++++++[#LightYellow] 示威
-+++++++[#White] [[https://cn.bing.com/dict/search?q=demonstrate demonstrate]]
-++++++++[#White] [[https://cn.bing.com/dict/search?q=demonstrator demonstrator]]
-+++++++++[#LightYellow] 示威者
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=indicate indicate]]
++++++++[#Aquamarine]_ 显示、展示、作为标志
 
-++++++[#LightYellow] 暗示
-+++++++[#White] [[https://cn.bing.com/dict/search?q=hint hint]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=hint hint]]
++++++++[#LightYellow]_ 暗示
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=demonstrate demonstrate]]
++++++++[#LightYellow]_ 示威
+++++++++[#White] demonstrator 示威者
+
+
+
++++++[#DeepSkyBlue] 需
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=require require]]
++++++++[#Aquamarine]_ 需要
+
+
++++++[#DeepSkyBlue] 限
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=restrict restrict]]
++++++++[#Aquamarine]_ 限制
+
 
 +++++[#DeepSkyBlue] 大
 
-++++++[#LightYellow] 膨胀
-+++++++[#White] [[https://cn.bing.com/dict/search?q=swell swell]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=swell swell]]
++++++++[#LightYellow]_ 膨胀
 
 
 +++++[#DeepSkyBlue] 多
 
-++++++[#LightYellow] 涌入
-+++++++[#White] [[https://cn.bing.com/dict/search?q=influx influx]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=influx influx]]
++++++++[#LightYellow]_ 涌入
 
 
 +++++[#DeepSkyBlue] 卷
 
-++++++[#LightYellow] 争夺
-+++++++[#White] [[https://cn.bing.com/dict/search?q=scramble scramble]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=scramble scramble]]
++++++++[#LightYellow]_ 争夺
 
 
 +++++[#DeepSkyBlue] 近
 
-++++++[#LightYellow] 逼近
-+++++++[#White] [[https://cn.bing.com/dict/search?q=loom loom]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=approach approach]]
++++++++[#LightYellow]_ 靠近、接近
++++++++[#Aquamarine]_ 途径
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=loom loom]]
++++++++[#LightYellow]_ 逼近
 
 
 +++++[#DeepSkyBlue] 像
 
-++++++[#LightGreen] 相似
-+++++++[#White] [[https://cn.bing.com/dict/search?q=resemble resemble]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=resemble resemble]]
++++++++[#Aquamarine]_ 相似
+
+
++++++[#DeepSkyBlue] 吃
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=consume consume]]
++++++++[#Aquamarine]_ 消费
+
+
++++++[#DeepSkyBlue] 打
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=hit hit]]
++++++++[#Aquamarine]_ 意识到
+++++++++[#Aquamarine]_ the idea hit me
++++++++[#Aquamarine]_ 达到
+++++++++[#Aquamarine]_ hit 42 degrees
++++++++[#Aquamarine]_ 按、踩
+++++++++[#Aquamarine]_ hit the brake
++++++++[#Aquamarine]_ 触发
+++++++++[#Aquamarine]_ hit the road
+
+
+
+
+
+
+
 
 
 
@@ -55,38 +199,46 @@
 
 ++++[#Pink] 褒义
 
++++++[#DeepSkyBlue] 建
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=establish establish]]
++++++++[#LightYellow]_ 建立、创建
+
+
+
 +++++[#DeepSkyBlue] 揭
 
-++++++[#LightYellow] 揭示
-+++++++[#White] [[https://cn.bing.com/dict/search?q=reveal reveal]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=reveal reveal]]
++++++++[#LightYellow]_ 揭示
 
-++++++[#LightGreen] 揭露
-+++++++[#White] [[https://cn.bing.com/dict/search?q=unveil unveil]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=unveil unveil]]
++++++++[#Aquamarine]_ 揭露
 
 +++++[#DeepSkyBlue] 呼
 
-++++++[#LightYellow] 呼吁
-+++++++[#White] [[https://cn.bing.com/dict/search?q=appeal appeal]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=appeal appeal]]
++++++++[#LightYellow]_ 呼吁
 ++++++++[#White]_ appeal to
 
-++++++[#LightYellow] 申明
-+++++++[#White] [[https://cn.bing.com/dict/search?q=affirm affirm]]
-++++++++[#White] [[https://cn.bing.com/dict/search?q=reaffirm reaffirm]]
-+++++++++[#LightYellow] 重申
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=affirm affirm]]
++++++++[#LightYellow]_ 申明
 
-++++++[#LightGreen] 敦促
-+++++++[#White] [[https://cn.bing.com/dict/search?q=urge urge]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=reaffirm reaffirm]]
++++++++[#LightYellow]_ 重申
+
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=urge urge]]
++++++++[#Aquamarine]_ 敦促
 
 +++++[#DeepSkyBlue] 究
 
-++++++[#LightYellow] 探究
-+++++++[#White] [[https://cn.bing.com/dict/search?q=probe probe]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=probe probe]]
++++++++[#LightYellow]_ 探究
 
 
 +++++[#DeepSkyBlue] 提
 
-++++++[#LightGreen] 提到
-+++++++[#White] [[https://cn.bing.com/dict/search?q=mention mention]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=mention mention]]
++++++++[#Aquamarine]_ 提到
 
 
 
@@ -96,50 +248,50 @@
 
 +++++[#DeepSkyBlue] 撞
 
-++++++[#LightYellow] 撞击
-+++++++[#White] [[https://cn.bing.com/dict/search?q=ram ram]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=ram ram]]
++++++++[#LightYellow]_ 撞击
 
 +++++[#DeepSkyBlue] 偷
 
-++++++[#LightYellow] 偷窃
-+++++++[#White] [[https://cn.bing.com/dict/search?q=swipe swipe]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=swipe swipe]]
++++++++[#LightYellow]_ 偷窃
 
 +++++[#DeepSkyBlue] 争
 
-++++++[#LightYellow] 纠纷
-+++++++[#White] [[https://cn.bing.com/dict/search?q=dispute dispute]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=dispute dispute]]
++++++++[#LightYellow]_ 纠纷
 
 
 +++++[#DeepSkyBlue] 杀
 
-++++++[#LightYellow] 杀害
-+++++++[#White] [[https://cn.bing.com/dict/search?q=slay slay]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=slay slay]]
++++++++[#LightYellow]_ 杀害
 ++++++++[#GhostWhite] slain（过去分词）
 
 
 +++++[#DeepSkyBlue] 伤
 
-++++++[#LightYellow] 使断肢
-+++++++[#White] [[https://cn.bing.com/dict/search?q=mutilate mutilate]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=mutilate mutilate]]
++++++++[#LightYellow]_ 使断肢
 
 +++++[#DeepSkyBlue] 毁
 
-++++++[#LightYellow] 毁灭
-+++++++[#White] [[https://cn.bing.com/dict/search?q=wreck wreck]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=wreck wreck]]
++++++++[#LightYellow]_ 毁灭
 ++++++++[#White] [[https://cn.bing.com/dict/search?q=shipwreck shipwreck]]
 +++++++++[#LightYellow] 沉船
 
-++++++[#LightYellow] 破坏
-+++++++[#White] [[https://cn.bing.com/dict/search?q=sabotage sabotage]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=sabotage sabotage]]
++++++++[#LightYellow]_ 破坏
 
-++++++[#LightYellow] 塌陷
-+++++++[#White] [[https://cn.bing.com/dict/search?q=collapse collapse]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=collapse collapse]]
++++++++[#LightYellow]_ 塌陷
 
 
 +++++[#DeepSkyBlue] 悲
 
-++++++[#LightYellow] 悼念
-+++++++[#White] [[https://cn.bing.com/dict/search?q=mourn mourn]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=mourn mourn]]
++++++++[#LightYellow]_ 悼念
 
 
 
@@ -148,14 +300,13 @@
 
 
 
-+++[#Orange] -
 
 ++++[#Pink] 0
 
 +++++[#DeepSkyBlue] 1
 
-++++++[#LightYellow] 2
-+++++++[#White] [[https://cn.bing.com/dict/search?q= ]]
+++++++[#GhostWhite] [[https://cn.bing.com/dict/search?q=2 2]]
++++++++[#LightYellow]_ 3
 
 
 

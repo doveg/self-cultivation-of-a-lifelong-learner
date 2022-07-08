@@ -2,11 +2,63 @@
 
 +[#OrangeRed] Vocabulary
 
-++[#yellow] 常见
+++[#yellow] noun
 
 +++[#Orange] 名词
 
 ++++[#Pink] 中性
+
++++++[#DeepSkyBlue] 论
+
+++++++[#LightGreen] 假说
++++++++[#White] [[https://cn.bing.com/dict/search?q=hypothesis hypothesis]]
+++++++++[#Aquamarine]_ 害怕会社死
+
+++++++[#LightGreen] 理论
++++++++[#White] [[https://cn.bing.com/dict/search?q=theory theory]]
+
+++++++[#LightGreen] 概念
++++++++[#White] [[https://cn.bing.com/dict/search?q=concept concept]]
+
+++++++[#LightGreen] 上下文
++++++++[#White] [[https://cn.bing.com/dict/search?q=context context]]
+
+++++++[#LightGreen] 示例、案例
++++++++[#White] [[https://cn.bing.com/dict/search?q=instance instance]]
+
+++++++[#LightGreen] 信息；事实
++++++++[#White] [[https://cn.bing.com/dict/search?q=data data]]
+
+++++++[#LightGreen] 演讲；教学
++++++++[#White] [[https://cn.bing.com/dict/search?q=instance instance]]
+
+
++++++[#DeepSkyBlue] 工
+
+++++++[#LightGreen] 工程、项目；预测
++++++++[#White] [[https://cn.bing.com/dict/search?q=project project]]
+
+
+
++++++[#DeepSkyBlue] 机
+
+++++++[#LightGreen] 运行；功能
++++++++[#White] [[https://cn.bing.com/dict/search?q=function function]]
+
+++++++[#LightGreen] 方法、方式
++++++++[#White] [[https://cn.bing.com/dict/search?q=method method]]
+
+++++++[#LightGreen] 特性、属性；包含某特性
++++++++[#White] [[https://cn.bing.com/dict/search?q=feature feature]]
+
+++++++[#LightGreen] 主题，问题
++++++++[#White] [[https://cn.bing.com/dict/search?q=issue issue]]
+
+
+
++++++[#DeepSkyBlue] 说
+
+
 
 +++++[#DeepSkyBlue] 情
 
@@ -36,11 +88,17 @@
 +++++++[#White] [[https://cn.bing.com/dict/search?q=Iowa Iowa]]
 
 
++++++[#DeepSkyBlue] 洲
+
+++++++[#LightGreen] 大洲
++++++++[#White] [[https://cn.bing.com/dict/search?q=continent continent]]
+
 
 +++++[#DeepSkyBlue] 数
 
 ++++++[#LightGreen] 十二个
 +++++++[#White] [[https://cn.bing.com/dict/search?q=dozen dozen]]
+
 
 +++++[#DeepSkyBlue] 军
 
@@ -52,7 +110,10 @@
 +++++++[#White] [[https://cn.bing.com/dict/search?q=reservist reservist]]
 
 
++++++[#DeepSkyBlue] 教
 
+++++++[#LightYellow] 宗教
++++++++[#White] [[https://cn.bing.com/dict/search?q=religion religion]]
 
 
 
