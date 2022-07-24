@@ -1,0 +1,63 @@
+@startmindmap
+
++[#OrangeRed] Story
+
+++[#yellow] 技巧
+
++++[#Pink] 脑才与口才
+
+++++[#MediumSpringGreen] SCQA / 背景与冲突框架
++++++[#LightGreen] 背景
++++++[#LightGreen] 冲突
++++++[#AliceBlue] 问题
++++++[#AliceBlue] 解决
+
+++++[#MediumSpringGreen] 图尔敏模型
++++++[#LightGreen] 硬论证
+++++++[#Aquamarine] 事实 / Data
+
++++++[#LightGreen] 支撑 / Backing
+++++++[#Aquamarine] 理据 / Warrant
+
++++++[#LightGreen] 软论证
+++++++[#Aquamarine] 主张 / Claim
+++++++[#Aquamarine] 限定 / Qualifier
+++++++[#Aquamarine] 自我反驳 / Rebuttal
+++++++[#Aquamarine]_ 没有人愿意被粗暴的说服
+
+++++[#MediumSpringGreen] 要素
++++++[#LightGreen] 经验值，经历总结
++++++[#LightGreen] 词汇量，专业词汇
++++++[#LightGreen] 知识量，专业背景
+
+++++[#MediumSpringGreen] 目标
++++++[#LightGreen] 从多个角度来展开一个话题
++++++[#LightGreen] 说清楚一件复杂的事
+
+++++[#MediumSpringGreen] 衡量标准
++++++[#LightGreen] 清晰表达
++++++[#LightGreen] 说服他人
++++++[#LightGreen] 倾听与回应
+
+++++[#MediumSpringGreen] 负面典型（六）
++++++[#LightGreen] 经验匮乏
++++++[#LightGreen] 语料匮乏，词汇不足
++++++[#LightGreen] 知识量匮乏
++++++[#LightGreen] 结构化工具缺失，整编能力不足
++++++[#LightGreen] 工作记忆容量太低
++++++[#LightGreen] 口语表现力不足
+
+
+'++++[#AliceBlue] 4
+'+++++[#LightGreen] 5
+'+++++[#GhostWhite] 5
+'++++++[#Aquamarine] 6
+'++++++[#LightBlue] 6
+'+++++++[#Aquamarine]_ 7
+
+'如何说清楚一件复杂的事？｜硬核说服实例
+'https://www.bilibili.com/video/BV1UZ4y1a7fS
+
+
+
+@endmindmap
