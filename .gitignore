@@ -14,6 +14,8 @@ target
 # Log file
 *.log
 temp-script.md
+template.puml
+.temp
 
 
 # BlueJ files
