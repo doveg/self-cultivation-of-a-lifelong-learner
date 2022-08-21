@@ -1,0 +1,22 @@
+@startmindmap
+
++[#OrangeRed] Physic
+
+++[#yellow] 基础
+
+++[#yellow] 相对论
+
++++[#Pink] 狭义相对论
+
++++[#Pink] 广义相对论
+
+++++[#MediumSpringGreen] 物质告诉空间如何弯曲，空间告诉物质如何运动
+
++++++[#GhostWhite] 5
+++++++[#Aquamarine] 6
++++++++[#Aquamarine]_ 7
+
+
+
+
+@endmindmap
