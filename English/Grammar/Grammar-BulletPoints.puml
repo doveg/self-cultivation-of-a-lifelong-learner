@@ -1,0 +1,71 @@
+@startmindmap
+
++[#OrangeRed] Grammar | 语法
+
+++[#yellow] BulletPoints | 要点
+
++++[#Pink] Basic | 基础
+
+++++[#MediumSpringGreen] Wh- question
++++++[#LightGreen]_ When | Where | Who
++++++[#LightGreen]_ Why | What | Which
++++++[#LightGreen]_ How long | How many
+
+++++[#MediumSpringGreen] Question tags
++++++[#LightGreen] Positive + Negative
++++++[#LightGreen] Negative + Positive
+
+++++[#MediumSpringGreen] Tense | 时态
+
++++++[#LightGreen] Simple past
+++++++[#Aquamarine]_ 过去式
+++++++[#Aquamarine]_ past tense
+
++++++[#LightGreen] Used to
+++++++[#Aquamarine]_ 过去常做···，习惯于···
+++++++[#Aquamarine]_ used to do
+++++++[#Aquamarine]_ didn't use to
+
++++++[#LightGreen] Habit in the past
+++++++[#Aquamarine]_ 过去习惯做···
+++++++[#Aquamarine]_ would do
+++++++[#Aquamarine]_ would always / often / usually / sometimes do
+++++++[#Aquamarine]_ would not / never do
+
++++++[#LightGreen] Past Continuous
+++++++[#Aquamarine]_ 过去进行式
+++++++[#Aquamarine]_ was / were doing
+++++++[#Aquamarine]_ was / were not doing
+
++++++[#LightGreen] Past perfect
+++++++[#Aquamarine]_ 现在完成式
+++++++[#Aquamarine]_ had done / been done
+++++++[#Aquamarine]_ had just / already done
+++++++[#Aquamarine]_ had not / never done
+
++++++[#LightGreen] Will & going to
+++++++[#Aquamarine]_ 将来式
+++++++[#Aquamarine]_ will
++++++++[#Aquamarine]_ 表示计划（即兴决定，说话时决定的）
++++++++[#Aquamarine]_ 表示主观推测（基于观点和经验）
++++++++[#Aquamarine]_ 陈述关于未来的事实（比如太阳明天升起）
+++++++[#Aquamarine]_ going to
++++++++[#Aquamarine]_ 表示计划（已有计划，说话前决定了）
++++++++[#Aquamarine]_ 表示客观推测（基于现有证据）
++++++++[#Aquamarine]_ 陈述即将发生的事
+
++++++[#LightGreen] Future Continuous
+++++++[#Aquamarine]_ 将来进行式
++++++++[#Aquamarine]_ 将来某个时间点
++++++++[#Aquamarine]_ 将来的日程安排
+++++++[#Aquamarine]_ will / shall be doing
+++++++[#Aquamarine]_ will / shall not be doing
+
++++++[#LightGreen] Present Perfect
+++++++[#Aquamarine]_ 现在完成式
++++++++[#Aquamarine]_ 将来某个时间点
+
+
+
+
+@endmindmap
