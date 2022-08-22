@@ -1,0 +1,308 @@
+@startmindmap
+
++[#OrangeRed] Vocabulary
+
+++[#yellow] 词汇
+
++++[#Orange] 基础
+
+++++[#Pink] 常用词
+
++++++[#LightGreen] 职业相关
+
+++++++[#Aquamarine] 前端
+
++++++++[#White] site | [] |  |
++++++++[#White] protocol | [ˈproʊtəˌkɔl] | n. 议定书；礼仪；外交礼节；条约草案 | v. 打 (草稿)；(把…) 记入议定书
++++++++[#White] link | [] |  |
++++++++[#White] element | [] |  |
++++++++[#White] previous | [] |  |
++++++++[#White] react | [] |  |
++++++++[#White] reject | [] |  |
++++++++[#White] decline | [] |  |
++++++++[#White] respond | [] |  |
++++++++[#White] status | [] |  |
++++++++[#White] proceed | [] |  |
++++++++[#White] expose | [] |  |
++++++++[#White] pending | [ˈpendɪŋ] | adj.待定的；待决的；即将发生的 | prep.在等待…时期；直到…为止
++++++++[#White] impending | [ɪmˈpendɪŋ] | adj.即将发生的；迫在眉睫的 |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] Java
+
++++++++[#White] initial | [] |  |
++++++++[#White] interpret | [] |  |
++++++++[#White] aware | [] |  |
++++++++[#White] context | [] |  |
++++++++[#White] transfer | [] |  |
++++++++[#White] section | [] |  |
++++++++[#White] region | [] |  |
++++++++[#White] integer | [] | n. 整数
++++++++[#White] integral | [] | n. 整体；【数】积分 | adj. 必需的；不可或缺的；作为组成部分的；完整的
++++++++[#White] trigger | [ˈtrɪɡər] | n. 触发器；（枪的）扳机；（尤指引发不良反应或发展的）起因；引爆器 | v. 触发；引起；发动；开动 | trigger for/to sth
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+++++++[#Aquamarine] 后端
+
++++++++[#White] robust | [roʊˈbʌst] | adj.强健的；强壮的；结实的；耐用的 |
++++++++[#White] maintain | [] |  |
++++++++[#White] obtain | [] |  |
++++++++[#White] complex | [] |  |
++++++++[#White] stable | [] |  |
++++++++[#White] label | [] |  |
++++++++[#White] source | [] |  |
++++++++[#White] resource | [] |  |
++++++++[#White] period | [] |  |
++++++++[#White] minor | [] |  |
++++++++[#White] maximize | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
++++++++[#White] shift | [] |  |
++++++++[#White] via | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] 安全
+
++++++++[#White] authority | [] |  |
++++++++[#White] access | [] |  |
++++++++[#White] role | [] |  |
++++++++[#White] administration | [] |  |
++++++++[#White] secure | [] |  |
++++++++[#White] internal | [] |  |
++++++++[#White] network | [] |  |
++++++++[#White] patch | [pætʃ] | n.补丁；小片；眼罩；色斑 | v.修补；打补丁；缝补
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] 数据库
+
++++++++[#White] select | [] |  |
++++++++[#White] distinct | [] |  |
++++++++[#White] primary | [] |  |
++++++++[#White] constraint | n. 约束；限制；限定
++++++++[#White] range | [] |  |
++++++++[#White] remove | [] |  |
++++++++[#White] extract | n. 提取物；摘录；精；节录 | v. 提取；摘录；提炼；获得
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] 开源
+
++++++++[#White] community | [] |  |
++++++++[#White] participate | [] |  |
++++++++[#White] contribute | [] |  |
++++++++[#White] comment | [] |  |
++++++++[#White] notion | [] |  |
++++++++[#White] debate | [] |  |
++++++++[#White] conflict | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+++++++[#Aquamarine] 公司
+
++++++++[#White] undertake | [] | v. 承担；从事；负责
++++++++[#White] behalf | [] | n. 代表，利益
++++++++[#White] overcome | [] | v. 克服；解决；战胜
++++++++[#White] absent | [] | adj. 没有；离开；缺勤的 | v. 使缺席
++++++++[#White] displace | [] | v. 取代；置换；转移
++++++++[#White] complement | [ˈkɑmpləˌment] | v. 补充；补足；使完美；使更具吸引力 |  n. 补语；补足语；补充物；补足物
++++++++[#White] complementary | [ˌkɑmpləˈment(ə)ri] | adj. 互补的；补充的；相互补足的 | complementary to sth
++++++++[#White] arguable | [ˈɑrɡjuəb(ə)l] | adj.可论证的；有论据的；无把握的；可疑的 |
++++++++[#White] prefer | [prɪˈfɜr] | v.较喜欢；喜欢…多于… |
++++++++[#White] referee | [ˌrefəˈriː] | n.裁判；推荐人；仲裁；常用于英式英语 | v.仲裁；担任裁判；裁定；解决争端
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+++++++[#Aquamarine] 个人成长
+
++++++++[#White] achieve | [] |  |
++++++++[#White] resolve | [] |  |
++++++++[#White] contact | [] |  |
++++++++[#White] consequence | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
++++++[#LightGreen] 专业相关
+
+++++++[#Aquamarine] 学术
+
++++++++[#White] religion | [rɪˈlɪdʒən] | n. 宗教；宗教信仰；教派；特别的兴趣
++++++++[#White] religious | [rəˈlɪdʒəs] | n. 修女 | adj. 宗教信仰的；宗教的；笃信宗教的；虔诚的
++++++++[#White] biology | [baɪˈɑlədʒi] | n. 生物学；生理
++++++++[#White] major | [] |  |
++++++++[#White] acquire | [] |  |
++++++++[#White] research | [] |  |
++++++++[#White] analyze | [] |  |
++++++++[#White] attribute | [] |  |
++++++++[#White] attitude | [] |  |
++++++++[#White] assume | [] |  |
++++++++[#White] concentrate | [] |  |
++++++++[#White] provided | [prəˈvaɪdəd] | conj. 如果；假如；在…条件下 | adj. 预备好的；由…供给的 | v.“provide”的过去分词和过去式
++++++++[#White] examiner | [ɪɡˈzæmɪnər] | n.考官；主考人；审查人；检查人 |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+++++++[#Aquamarine] 营销
+
++++++++[#White] strategy | [] |  |
++++++++[#White] expand | [] |  |
++++++++[#White] focus | [] |  |
++++++++[#White] challenge | [] |  |
++++++++[#White] benefit | [] |  |
++++++++[#White] approach | [] |  |
++++++++[#White] contract | [] |  |
++++++++[#White] assess | [] |  |
++++++++[#White] evaluate | [] |  |
++++++++[#White] estimate | [] |  |
++++++++[#White] precise | [] |  |
++++++++[#White] potential | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
++++++[#LightGreen] 爱好相关
+
+++++++[#Aquamarine] 物理
+
++++++++[#White] physical | [] |  | 身体的；肉体的；躯体的；客观存在的
++++++++[#White] physic | [] |  | 物理学
++++++++[#White] emit | [] |  | 发射，散发
++++++++[#White] bulk | [] | n. 大部分；主体；（大）体积；大（量） | v. 扩展；增大；堆积起来；形成大块 | the bulk of sth
++++++++[#White] bulky | [] | adj. 庞大的；笨重的；大块头的；高大肥胖的
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] 投资
++++++++[#White] invest 投资；（把资金）投入；投入（时间、精力等）；授予
++++++++[#White] accumulate 积累；积聚；（数量）逐渐增加；（数额）逐渐增长
++++++++[#White] annual | [] | n. 年报；年鉴；年刊；一年生植物 | adj. 每年的；一年一次的；年度的；一年的
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] 文化
+
++++++++[#White] culture
++++++++[#White] vary
++++++++[#White] reside
++++++++[#White] migrate 迁移；移居；转移；（随季节变化）迁徙
++++++++[#White] disperse | [dɪˈspɜrs] | v. 驱散；散开；传播；疏散 | adj. 分散的；【物】弥散的 | disperse sth
++++++++[#White] disparate | [ˈdɪsperət] | adj. 迥然不同的；无法比较的；不相干的；由不同的人（或事物）组成的 | n. 无法比较的东西
++++++++[#White] horse | [hɔrs] | n.赛马；【动】马；(体操用)木马；脚手架 |
++++++++[#White] roam | [] | n.漫游 | v.徜徉；漫步；闲逛；摸遍
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+++++++[#Aquamarine] 饮食
+
++++++++[#White] flavor | [ˈfleɪvər] | n.风味；滋味；气味 | v.给…添风味[添情趣,添风趣]；给…调味
++++++++[#White] recipe | [] | n. 食谱；方法；诀窍；烹饪法
++++++++[#White] ingredient | [] | n. 成分；要素；（尤指烹饪）材料
++++++++[#White] watery | [ˈwɔt(ə)ri]] | adj.水的；似水的；含水的；水分很多的 |
++++++++[#White] snack | n. 小吃；快餐；点心；易办到的事 | v. 吃点心（或快餐、小吃）
++++++++[#White] popcorn | [] | n.【食】爆米花
++++++++[#White] spaghetti | [spəˈɡeti] | n.意大利细面条 |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+++++++[#Aquamarine] 艺术
+
++++++++[#White] sketch | [sketʃ] | n. 素描；草图；速写；概述 | v. 概述；简述；画素描；画速写
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
++++++[#LightGreen] 人类
+
+++++++[#Aquamarine] 爱
+
++++++++[#White] elegant (某物) 优美的；(某人) 苗条的
++++++++[#White] mild | [maɪld] | adj.温和的；和善的；不严厉的；和煦的 | n.淡味啤酒
++++++++[#White] gratify  使高兴，使满意
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+++++++[#Aquamarine] 恨
+
++++++++[#White] careless | [ˈkerləs] | adj. 不小心的；不仔细的；粗心的；粗心造成的 |
++++++++[#White] abrupt | [əˈbrʌpt] | adj. 粗鲁；粗暴；突然的；突如其来的 |
++++++++[#White] crude | [krud] | adj. 粗略的；简略的；大概的；粗糙的 | n. 原油；石油
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
++++++[#LightGreen] 生活
+
+++++++[#Aquamarine] 日常
+
++++++++[#White] castle | [ˈkæs(ə)l] | n. 城堡；堡垒；车 | v. 把… 置于城堡中；筑城堡防卫；(下国际象棋时) 用车护 (王)
++++++++[#White] dusk | [dʌsk] | n.黄昏；傍晚 | v.使变成微黑[暗]；变微暗[黑]；接近黄昏
++++++++[#White] sight | [saɪt] | v.看见；瞄准；发现；给…装瞄准器 | n.视力；情景；视域；风景
++++++++[#White] non-stop | [] | adj.直达的；不在途中停留的；不间断的；不停的 | adv.不停地 | n.不停的
++++++++[#White]  | [] |  |
++++++++[#White]  | [] |  |
+
+
+
++++++[#LightGreen] 其他
+
+++++++[#Aquamarine] Verbs
+
++++++++[#White] affect | [] |  |
++++++++[#White] construct | [] |  |
++++++++[#White] individual | [] |  |
++++++++[#White] available | [] |  |
++++++++[#White] considerable | [] |  |
++++++++[#White] evident | [] |  |
++++++++[#White] assist | [] |  |
++++++++[#White] specify | [] |  |
++++++++[#White] circumstance | [] |  |
++++++++[#White] occur | [] |  |
++++++++[#White] occupy | [] |  |
++++++++[#White] relevant | [] |  |
++++++++[#White] obvious | [] |  |
++++++++[#White] rely | [] |  |
++++++++[#White] mental | [] |  |
++++++++[#White] alternative | [] |  |
++++++++[#White] labor | [] |  |
++++++++[#White] tradition | [] |  |
++++++++[#White] enable | [] |  |
++++++++[#White] capable | [] |  |
++++++++[#White] require | [] |  |
++++++++[#White] whereas | [] |  |
++++++++[#White]  | [] |  |
+
+
+
+
+
+@endmindmap
