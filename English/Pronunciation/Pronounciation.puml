@@ -1,0 +1,501 @@
+@startmindmap
+
++[#OrangeRed] Pronunciation
+
+++[#yellow] 发音
+
++++[#Pink] 音标
+
+++++[#MediumSpringGreen] 英标体系
+
++++++[#LightGreen] 国际音标
+++++++[#Aquamarine]_ 背景：万国音标，以拉丁字母为基础
+++++++[#Aquamarine] IPA
++++++++[#Aquamarine]_ International Phonetic Alphabet
+
++++++[#LightGreen] DJ 音标
+++++++[#Aquamarine]_ 背景
++++++++[#Aquamarine]_ 大部分借用了国际音标的符号给英语注音，属于广义的国际音标
++++++++[#Aquamarine]_ 国内主流，广泛使用
++++++++[#Aquamarine]_ 可以给美式英语注音
+
+++++++[#Aquamarine] Gimson 音标
++++++++[#Aquamarine] IPA88
++++++++[#Aquamarine]_ 特征：ʊ,倒欧姆一样的 u
+
+++++++[#Aquamarine] Daniel Jones 丹尼尔·琼斯
++++++++[#Aquamarine]_ 英语发音词典
+++++++++[#Aquamarine]_ English Pronouncing Dictionary
++++++++[#Aquamarine]_ IPA63
++++++++[#Aquamarine]_ 特征：符号接近于字母
+
++++++[#LightGreen] KK 音标
+++++++[#Aquamarine]_ 美国英语发音词典
++++++++[#Aquamarine]_ A Pronouncing Dictionary of American English
+++++++[#Aquamarine]_ 台湾地区广泛使用，如赖世雄
+++++++[#Aquamarine]_ 特征：r 化了的元音
+
++++++[#LightGreen] 韦氏音标
+++++++[#Aquamarine]_ 美国人比较熟悉，因为常用韦氏词典
+++++++[#Aquamarine]_ 特征：一声一样的元音
+
++++++[#LightGreen] AHD 音标
+++++++[#Aquamarine]_ 美国传统英语词典
++++++++[#Aquamarine]_ American Heritage Dictionary
+++++++[#Aquamarine]_ 特征：一声一样的元音、三声一样的元音
+
+
+++[#yellow] DJ 音标 (48)
+
++++[#Pink] 元音 (20)
+
+++++[#MediumSpringGreen] 单元音
+
++++++[#LightGreen] 前元音
+
+++++++[#GhostWhite] /iː/
++++++++[#LightYellow]_ 拉伸嘴角，拉长音；和拼音 i 非常相似
++++++++[#LightYellow]_ ee | ea 可能读这个音
+++++++++[#LightYellow]_ bee | fee | pea | read | meat | lead
++++++++[#LightYellow]_ 有短音版本：/i/
+++++++++[#LightYellow]_ 紧化：happy
+++++++++[#LightYellow]_ 弱化：he she
+
+++++++[#Aquamarine] /ɪ/
++++++++[#LightYellow]_ 类似于短促的一；很放松，舌位和口型都区别于 /iː/
++++++++[#LightYellow]_ i 可能读这个音
+++++++++[#LightYellow]_ bit | fit | pit | lit | hit | fish | big
+
+++++++[#GhostWhite] /e/
++++++++[#LightYellow]_ 稍微拉伸嘴角；和拼音 e 非常相似
++++++++[#LightYellow]_ e 可能读这个音
+++++++++[#LightYellow]_ bed | get | pet | let | met | set
+
+++++++[#Aquamarine] /æ/
++++++++[#LightYellow]_ 梅花音；ash；来源于拉丁字母 ae 组合
++++++++[#LightYellow]_ 短元音；同 /ɑ/ 相似，但要拉伸嘴角；舌位介于 a 和 e 之间
++++++++[#LightYellow]_ a 可能读这个音
+++++++++[#LightYellow]_ bad | fat | pat | lad | mat | sat
+
+
++++++[#LightGreen] 中元音
+
+++++++[#Aquamarine] /ɜː/
++++++++[#LightYellow]_ 比拼音 e 舌位高；拉长音；起源于希腊字母 Epsilon
++++++++[#LightYellow]_ er | ear | ir | or | ur 可能读这个音
+++++++++[#LightYellow]_ her | person | learn | bird | word | fur
++++++++[#LightYellow]_ 通常后面接字母 r，所以美音中会 r 化
+
+++++++[#Aquamarine] /ə/
++++++++[#LightYellow]_ 放松版的 /ɜː/
++++++++[#LightYellow]_ 最轻松的发音；只震动声带
+++++++++[#LightYellow]_ 元音弱化：为了减少某个音的发音时间，用 /ə/ 作为默认音
+++++++++[#LightYellow]_ 元音中最重要的一个符号，母语和非母语人士最显著的区别之一
++++++++[#LightYellow]_ a | e | i | o | u | y 都有可能读这个音
+++++++++[#LightYellow]_ about | balloon | problem | taken | family | pencil | easily
+++++++++[#LightYellow]_ memory | freedom | supply| support | analysis  | pyjamas
+++++++++[#LightYellow]_ the | teacher | bigger | ruler
+
+++++++[#GhostWhite] /ʌ/
++++++++[#LightYellow]_ 比拼音 a 舌位高一点
++++++++[#LightYellow]_ u | o 可能读这个音
+++++++++[#LightYellow]_ but | hut | must | son | ton | done
++++++++[#LightYellow]_ 美音和英音有明显区别；英音的下颌张的更大
+
+
++++++[#LightGreen] 后元音
+
+++++++[#GhostWhite] /uː/
++++++++[#LightYellow]_ 圆唇，开口小；和拼音 u 非常相似
++++++++[#LightYellow]_ oo | u 可能读这个音
+++++++++[#LightYellow]_ too | food | loose | music | news | student
++++++++[#LightYellow]_ 在现代英语重，舌位向前迁移，发音变短了
++++++++[#LightYellow]_ 有短音版本：/u/
+++++++++[#LightYellow]_ influence
+++++++++[#LightYellow]_ 弱化：you
+
+++++++[#Aquamarine] /ɔː/
++++++++[#LightYellow]_ 最复杂的元音，很多版本
+++++++++[#LightYellow]_ 美音
++++++++++[#LightYellow]_ 英音 /ɒ/ 的长音版
++++++++++[#LightYellow]_ 由于 cot-caught 合并，相当于 /ɑː/
+++++++++[#LightYellow]_ 英音
++++++++++[#LightYellow]_ 和拼音 o 非常相似
++++++++[#LightYellow]_ au | ou | aw | oo 可能读这个音
+++++++++[#LightYellow]_ caught | bought | law | saw | door | four
++++++++[#LightYellow]_ 有短音版本：/ɔ/
+++++++++[#LightYellow]_ warp
+
+++++++[#Aquamarine] /ʊ/
++++++++[#LightYellow]_ 马蹄音；起源于拉丁 Upsilon
++++++++[#LightYellow]_ 短元音；很放松，微微圆唇，震动声带
++++++++[#LightYellow]_ oo | u | ou 可能读这个音
+++++++++[#LightYellow]_ book | look | good | took | bush | would
+
+++++++[#GhostWhite] /ɑː/
++++++++[#LightYellow]_ 张大口，但不拉伸嘴角；和拼音 a 非常相似
++++++++[#LightYellow]_ a 可能读这个音
+++++++++[#LightYellow]_ father | fast | glass | car | park | mark
+
+++++++[#Aquamarine] /ɒ/
++++++++[#LightYellow]_ 圆唇短音版的 /ɑː/；中国人最易读混的音；和拼音 ao 有相似之处
++++++++[#LightYellow]_ o | a 可能读这个音
+++++++++[#LightYellow]_ top | hot | lot | box | stop | wash
+
+
+++++[#MediumSpringGreen] 双元音
+
++++++[#LightGreen] 开合双元音
+
+++++++[#GhostWhite] /eɪ/
++++++++[#LightYellow]_ 和拼音 ei 非常相似
++++++++[#LightYellow]_ a 可能读这个音
+++++++++[#LightYellow]_ make | date | cake | plane | train | dangerous
+
+++++++[#GhostWhite] /aɪ/
++++++++[#LightYellow]_ 和拼音 ai 相似
++++++++[#LightYellow]_ i | y 可能读这个音
+++++++++[#LightYellow]_ bike | nice | time | like | site | life | by | light | height
+
+++++++[#GhostWhite] /ɔɪ/
++++++++[#LightYellow]_ 快速连读
++++++++[#LightYellow]_ oy | oi 可能读这个音
+++++++++[#LightYellow]_ boy | toy | soy | voice | noise | moist
+
+++++++[#GhostWhite] /aʊ/
++++++++[#LightYellow]_ 要拉伸嘴角；和拼音 ao 相似
++++++++[#LightYellow]_ ow | ou 可能读这个音
+++++++++[#LightYellow]_ how | cow | allow | house | loud | mouse
+
+++++++[#GhostWhite] /əʊ/
++++++++[#LightYellow]_ 和拼音 ou 相似
++++++++[#LightYellow]_ o | oa 可能读这个音
+++++++++[#LightYellow]_ open | hope | post | coast | boat | soap
+
+
++++++[#LightGreen] 集中双元音
+
+++++++[#GhostWhite] /ɪə/
++++++++[#LightYellow]_ 和拼音 ie 相似
++++++++[#LightYellow]_ ear | eer | ere | ea 可能读这个音
+++++++++[#LightYellow]_ dear | fear | here | beer | cheer | idea
+
+++++++[#GhostWhite] /eə/
++++++++[#LightYellow]_ air | are 可能读这个音
+++++++++[#LightYellow]_ hair | pair | chair | fare | care | dare
+
+++++++[#GhostWhite] /ʊə/
++++++++[#LightYellow]_ 和拼音 uo 差异挺大
++++++++[#LightYellow]_ our | oor | ure 可能读这个音
+++++++++[#LightYellow]_ tour | poor | moor | pure | cure | lure
+
+
++++[#Pink]  辅音 (28)
+
+++++[#MediumSpringGreen] 爆破音
+
++++++[#LightGreen] 清辅音
+
+++++++[#GhostWhite] /p/
++++++++[#LightYellow]_ p 可能读这个音
+
++++++++[#LightYellow]_ 送气
+++++++++[#LightYellow]_ 和拼音 p 非常相似
+++++++++[#LightYellow]_ p + 元音
++++++++++[#LightYellow]_ peak | pet | pig | rapid | lap
+
++++++++[#LightYellow]_ 不送气
+++++++++[#LightYellow]_ 和拼音 b 相似
+++++++++[#LightYellow]_ s + p
++++++++++[#LightYellow]_ speak
+
++++++++[#LightYellow]_ 无声除阻
+++++++++[#LightYellow]_ p + 某些辅音
++++++++++[#LightYellow]_ trapdoor | help me
+
+++++++[#GhostWhite] /t/
++++++++[#LightYellow]_ 音位变体最多，辅音中最复杂的音
++++++++[#LightYellow]_ t 可能读这个音
+
++++++++[#LightYellow]_ 送气
+++++++++[#LightYellow]_ 和拼音 t 非常相似
+++++++++[#LightYellow]_ t + 元音
++++++++++[#LightYellow]_ tip | tea | test | tap | bat | bet | top
+
++++++++[#LightYellow]_ 不送气
+++++++++[#LightYellow]_ 和拼音 d 非常相似
+++++++++[#LightYellow]_ s + t
++++++++++[#LightYellow]_ stop
+
++++++++[#LightYellow]_ 无声除阻
+++++++++[#LightYellow]_ 不完全爆破
+++++++++[#LightYellow]_ t + 某些辅音
++++++++++[#LightYellow]_ setback | forget me
+
++++++++[#LightYellow]_ 闪音
+++++++++[#LightYellow]_ 美音中
+++++++++[#LightYellow]_ t 在非重读音节中
++++++++++[#LightYellow]_ water | better | a lot of
++++++++[#LightYellow]_ 喉塞音
+++++++++[#LightYellow]_ 英国的某些方言中
+++++++++[#LightYellow]_ 声音卡在喉咙，不发出来
++++++++++[#LightYellow]_ eaten | button | certain
++++++++[#LightYellow]_ 鼻音除阻
+++++++++[#LightYellow]_ 口语中可以这么用
+++++++++[#LightYellow]_ /t/ + /n/
++++++++++[#LightYellow]_ eaten | button | certain
++++++++[#LightYellow]_ 边音除阻
+++++++++[#LightYellow]_ 气流在舌头两侧释放
+++++++++[#LightYellow]_ /t/ + 边音
++++++++++[#LightYellow]_ spotless | butler | little | kettle
++++++++[#LightYellow]_ 省略
+++++++++[#LightYellow]_ 美音中
+++++++++[#LightYellow]_ /n/ + /t/
++++++++++[#LightYellow]_ winter | interview
+
+++++++[#GhostWhite] /k/
++++++++[#LightYellow]_ k | c | ck | ch 可能读这个音
+
++++++++[#LightYellow]_ 送气
+++++++++[#LightYellow]_ 和拼音 k 非常相似
+++++++++[#LightYellow]_ k + 元音
++++++++++[#LightYellow]_ kit | Kate | cup | anchor | pick | peck
+
++++++++[#LightYellow]_ 不送气
+++++++++[#LightYellow]_ 和拼音 g 非常相似
+++++++++[#LightYellow]_ s + k
++++++++++[#LightYellow]_ sky
+
++++++++[#LightYellow]_ 无声除阻
+++++++++[#LightYellow]_ k + 某些辅音
+++++++++[#LightYellow]_ doctor | make dinner
+
+
++++++[#LightGreen] 浊辅音
+
+++++++[#GhostWhite] /b/
++++++++[#LightYellow]_ 是 /p/ 的浊音版本：和拼音 b 非常相似
++++++++[#LightYellow]_ b 可能读这个音
+++++++++[#LightYellow]_ beak | bed | big | rabbit | lab | beautiful
+
+++++++[#GhostWhite] /d/
++++++++[#LightYellow]_ 是 /t/ 的浊音版本
++++++++[#LightYellow]_ d 可能读这个音
+
++++++++[#LightYellow]_ 送气
+++++++++[#LightYellow]_ 和拼音 d 非常相似
+++++++++[#LightYellow]_ d + 元音
++++++++++[#LightYellow]_ dip | deep | desk | dab | bad | bed
+
++++++++[#LightYellow]_ 无声除阻
+++++++++[#LightYellow]_ 不完全爆破
+++++++++[#LightYellow]_ d + 某些辅音
++++++++++[#LightYellow]_ landmine
+
++++++++[#LightYellow]_ 闪音
+++++++++[#LightYellow]_ 美音中
+++++++++[#LightYellow]_ d 在非重读音节中
++++++++++[#LightYellow]_ medal
++++++++++[#LightYellow]_ medal 和 metal 闪音之后无法区分
++++++++[#LightYellow]_ 鼻音除阻
+++++++++[#LightYellow]_ 口语中可以这么用
+++++++++[#LightYellow]_ /d/ + /n/
++++++++++[#LightYellow]_ sudden
++++++++[#LightYellow]_ 边音除阻
+++++++++[#LightYellow]_ 气流在舌头两侧释放
+++++++++[#LightYellow]_ /d/ + 边音
++++++++++[#LightYellow]_ badly
+
+++++++[#GhostWhite] /g/
++++++++[#LightYellow]_ 和拼音 g 非常相似
++++++++[#LightYellow]_ g 可能读这个音
+++++++++[#LightYellow]_ git | gate | gut | anger | pig | peg
+
+
+++++[#MediumSpringGreen] 摩擦音
+
++++++[#LightGreen] 清辅音
+
+++++++[#GhostWhite] /f/
++++++++[#LightYellow]_ 和拼音 f 非常相似
++++++++[#LightYellow]_ f 可能读这个音
+++++++++[#LightYellow]_ fat | fit | ferry | feat | life | leaf
+
+++++++[#GhostWhite] /s/
++++++++[#LightYellow]_ 和拼音 s 非常相似
++++++++[#LightYellow]_ s | ce 可能读这个音
+++++++++[#LightYellow]_ sip | soon | soup | lesson | once | peace | apples
+
+++++++[#GhostWhite] /ʃ/
++++++++[#LightYellow]_ 和拼音 sh 相似
++++++++[#LightYellow]_ sh | ti 可能读这个音
+++++++++[#LightYellow]_ mesh | fresh | leash | attention | shall | shame | shirt
+
+++++++[#Aquamarine] /θ/
++++++++[#LightYellow]_ 来源于希腊字母 Theta；特色发音
++++++++[#LightYellow]_ th 可能读这个音
+++++++++[#LightYellow]_ three | thin | thank | thigh | bath | breath
+
+++++++[#GhostWhite] /h/
++++++++[#LightYellow]_ 和拼音 h 相似
++++++++[#LightYellow]_ h 可能读这个音
+++++++++[#LightYellow]_ hat | hot | high | home | house | him
+
++++++[#LightGreen] 浊辅音
+
+++++++[#GhostWhite] /v/
++++++++[#LightYellow]_ 是 /f/ 的浊音版本
++++++++[#LightYellow]_ v 可能读这个音
+++++++++[#LightYellow]_ valley | visit | very | vest | drive | leave
+
+++++++[#GhostWhite] /z/
++++++++[#LightYellow]_ 是 /s/ 的浊音版本；和拼音 c 相似
++++++++[#LightYellow]_ z | se | s 可能读这个音
+++++++++[#LightYellow]_ zip | zoom | zoo | reason | lose | please
+
+++++++[#Aquamarine] /ʒ/
++++++++[#LightYellow]_ 是 /ʃ/ 的浊音版本；和拼音 q 有相似之处
++++++++[#LightYellow]_ s | g 可能读这个音
+++++++++[#LightYellow]_ measure | pleasure | decision | occasion | usual | regime | beige | massage | garage
+
+++++++[#Aquamarine] /ð/
++++++++[#LightYellow]_ 是 /θ/ 的浊音版本；特色发音
++++++++[#LightYellow]_ th 可能读这个音
+++++++++[#LightYellow]_ there | that | those | the | bathe | breathe
+
+++++++[#GhostWhite] /r/
++++++++[#LightYellow]_ r 可能读这个音
++++++++[#LightYellow]_ 齿音近音
+++++++++[#LightYellow]_ 短日，和拼音 r 相似
+++++++++[#LightYellow]_ /r/ + 元音
++++++++++[#LightYellow]_ rat | red | read | rice | right | room | roar
++++++++[#LightYellow]_ r 化
+++++++++[#LightYellow]_ 元音 + /r/
++++++++++[#LightYellow]_ car | her | ear | bore | tour | pure
+
+
+
+++++[#MediumSpringGreen] 破擦音
+
++++++[#LightGreen] 清辅音
+
+++++++[#Aquamarine] /tʃ/
++++++++[#LightYellow]_ 和拼音 ch 相似
++++++++[#LightYellow]_ ch 可能读这个音
+++++++++[#LightYellow]_ chuck | chop | choke | cheap | catch | pitch | church
+
+++++++[#LightYellow] /ts/
++++++++[#LightYellow]_ 和拼音 c 非常相似
++++++++[#LightYellow]_ ts 可能读这个音
+++++++++[#LightYellow]_ bats | dates | kites | fights | hats | lots
+
+++++++[#LightYellow] /tr/
++++++++[#LightYellow]_ tr 可能读这个音
+++++++++[#LightYellow]_ trip | true | tree | try | country | pantry | train | tribe
+
+
++++++[#LightGreen] 浊辅音
+
+++++++[#Aquamarine] /dʒ/
++++++++[#LightYellow]_ 是 /tʃ/ 的浊音版本；和拼音 zh 相似
++++++++[#LightYellow]_ j | ge 可能读这个音
+++++++++[#LightYellow]_ jug | job | joke | jeep | page | college
+
+++++++[#LightYellow] /dz/
++++++++[#LightYellow]_ 和拼音 z 相似
++++++++[#LightYellow]_ ds 可能读这个音
+++++++++[#LightYellow]_ bands | deeds | kids | friends | hands | leads
+
+++++++[#LightYellow] /dr/
++++++++[#LightYellow]_ dr 可能读这个音
+++++++++[#LightYellow]_ drip | drew | dream | dry | laundry | hundred | drain | drive | drop
+
+
+++++[#MediumSpringGreen] 鼻音
+
++++++[#LightGreen] 浊辅音
+
+++++++[#GhostWhite] /m/
++++++++[#LightYellow]_ 闭嘴，只震动声带；和拼音 m 非常相似
++++++++[#LightYellow]_ m 可能读这个音
+++++++++[#LightYellow]_ sum | map | met | meat | room | Tom | lime
+
+++++++[#GhostWhite] /n/
++++++++[#LightYellow]_ 张嘴，舌尖抵着上颚；和拼音 n 非常相似
++++++++[#LightYellow]_ n 可能读这个音
+++++++++[#LightYellow]_ sun | nap | net | neat | noon | run | line | sin | on
+
+++++++[#GhostWhite] /ŋ/
++++++++[#LightYellow]_ 闭嘴，舌根抵着上颚；和拼音 ng 非常相似
++++++++[#LightYellow]_ ng 可能读这个音
+++++++++[#LightYellow]_ sung | sing | long
+
+
+++++[#MediumSpringGreen] 半元音
+
++++++[#LightGreen] 浊辅音
+
+++++++[#GhostWhite] /j/
++++++++[#LightYellow]_ y | u | e 可能读这个音
++++++++[#LightYellow]_ 和拼音 y 非常相似
+++++++++[#LightYellow]_ yes | yard | yellow | young | yoga | use
++++++++[#LightYellow]_ yod 省略
+++++++++[#LightYellow]_ student | dew | news
++++++++[#LightYellow]_ yod 融合
+++++++++[#LightYellow]_ 英音
+++++++++[#LightYellow]_ educate | issue | azure | tube | during
+++++++++[#LightYellow]_ Nice to meet you. | Could you do it?
+
+++++++[#GhostWhite] /w/
++++++++[#LightYellow]_ 和拼音 w 非常相似
++++++++[#LightYellow]_ w 可能读这个音
+++++++++[#LightYellow]_ was | why | wide | wet | we | wood
++++++++[#LightYellow]_ /w/ 和 /v/
+++++++++[#LightYellow]_ wet | wheel | whip
+++++++++[#LightYellow]_ vet | view | visa
+
+
+++++[#MediumSpringGreen] 舌边音
+
++++++[#LightGreen] 浊辅音
+
+++++++[#GhostWhite] /l/
++++++++[#LightYellow]_ l 可能读这个音
++++++++[#LightYellow]_ 清晰 L
+++++++++[#LightYellow]_ 和拼音 l 非常相似
+++++++++[#LightYellow]_ /l/ + 元音
++++++++++[#LightYellow]_ lack | lake | like | look | lose | leak | light
++++++++++[#LightYellow]_ million | billion | value
++++++++[#LightYellow]_ 模糊 L
+++++++++[#LightYellow]_ /l/ 后无元音
+++++++++[#LightYellow]_ help | mile | all | girl | school | full | cool | golf | ball  | loll
++++++++[#LightYellow]_ 不发音 L
+++++++++[#LightYellow]_ calm | palm | salmon | colonel | folk
+
+
+
+
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#Aquamarine]_ 7
+
+++++[#AliceBlue] 4
++++++[#GhostWhite] 5
+++++++[#LightBlue] 6
+
+
+
+
+'英语兔音标课 https://www.bilibili.com/video/BV1iV411z7Nj
+
+
+
+
+@endmindmap
