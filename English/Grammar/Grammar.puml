@@ -1,0 +1,269 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] 语法
+
++++[#Pink] 词类 | 词性 (10)
+
+++++[#MediumSpringGreen] Verb | 动词 | v.
+
++++++[#LightGreen] 词性分类
+++++++[#Aquamarine]_ transitive verb | 及物动词 | vt.
+++++++[#Aquamarine]_ intransitive verb | 及物动词 | vi.
+
++++++[#LightGreen] 语法分类
+++++++[#Aquamarine]_ 谓语动词
+++++++[#Aquamarine]_ Linking Verb | 连系动词 | aux.v
+++++++[#Aquamarine]_ Auxiliary | 助动词 |
+++++++[#Aquamarine]_ Modal Verb | 情态助动词
+++++++[#Aquamarine]_ Semi-Auxiliary | 半助动词
+++++++[#Aquamarine]_ Causative Verb | 使役动词
+++++++[#Aquamarine]_ 非谓语动词
+++++++[#Aquamarine]_ 虚拟语气（动词语气）
+
+
+++++[#MediumSpringGreen] Noun | 名词 | n.
++++++[#LightGreen]_ uncountable noun | 不可数名词 | u.
++++++[#LightGreen]_ plural | 复数 | pl.
+
+++++[#MediumSpringGreen] Adjective | 形容词 | adj.
+++++[#MediumSpringGreen] Adverb | 副词 | adv.
+
+++++[#MediumSpringGreen] Article | 冠词 | art.
+++++[#MediumSpringGreen] Preposition | 介词 | prep.
+
+++++[#MediumSpringGreen] Pronoun | 代词 | pron.
+++++[#MediumSpringGreen] Numeral | 数词 | num.
+
+++++[#MediumSpringGreen] Conjunction | 连词 | conj.
+++++[#MediumSpringGreen] Interjection | 叹词 | int.
+
+++++[#MediumSpringGreen]_ 限定词
+
+
+
++++[#Pink] 语态
+
+++++[#MediumSpringGreen] 被动
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++[#MediumSpringGreen] 倒装
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++[#MediumSpringGreen] 强调
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++[#MediumSpringGreen] 省略
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++[#MediumSpringGreen] 主谓一致
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+
+
+
++++[#Pink] Clause | 从句
+
+++++[#MediumSpringGreen] 分类
+
++++++[#LightGreen] 形容词从句 | 关系从句
+
+++++++[#Aquamarine] 定语从句
+
++++++++[#LightYellow] 要素
+++++++++[#GhostWhite] 先行词
++++++++++[#GhostWhite]_ 从句修饰的对象
+++++++++[#GhostWhite] 关系词
++++++++++[#GhostWhite]_ 比如 which, that, whom
+
++++++++[#LightYellow] 分类
+++++++++[#GhostWhite] 限定性
+++++++++[#GhostWhite] 非限定性
++++++++++[#GhostWhite]_ 常用来做插入语
++++++++++[#GhostWhite]_ 关系词可以用来指代整句话
+
+
++++++[#LightGreen] 名词性从句
+
+++++++[#Aquamarine] 主语从句
++++++++[#LightYellow]_ 比如 that
+
+++++++[#Aquamarine] 宾语从句
++++++++[#LightYellow]_ 比如 that
++++++++[#LightYellow]_ 引导词 that 有时候可以省略
+
+++++++[#Aquamarine] 主语补足语（表语）从句
++++++++[#LightYellow]_ 比如 if
+
+++++++[#Aquamarine] 宾语补足语（表语）从句
++++++++[#LightYellow]_ 少见
+
+++++++[#Aquamarine] 同位语从句
++++++++[#LightYellow]_ 比如 whether
+
+
++++++[#LightGreen] 副词性从句
+
+++++++[#Aquamarine] 状语从句
+
++++++++[#LightYellow]_ 时间
+++++++++[#GhostWhite]_ 比如 when | while | as | before | after | until | since
+
++++++++[#LightYellow]_ 地点
+++++++++[#GhostWhite]_ 比如 where | wherever
+
++++++++[#LightYellow]_ 比较
+++++++++[#GhostWhite]_ 比如 than | as
+
++++++++[#LightYellow]_ 条件
+++++++++[#GhostWhite]_ 比如 if | unless
+
++++++++[#LightYellow]_ 让步
+++++++++[#GhostWhite]_ 比如 although | though | even though | even if | while
+
++++++++[#LightYellow]_ 方式
+++++++++[#GhostWhite]_ 比如 as | as if | as though
+
++++++++[#LightYellow]_ 原因
+++++++++[#GhostWhite]_ 比如 because | since | as
+
++++++++[#LightYellow]_ 目的
+++++++++[#GhostWhite]_ 比如 in order that | so that | so
+
++++++++[#LightYellow]_ 结果
+++++++++[#GhostWhite]_ 比如 so that | such that | so
+
+
+
++++[#Pink] 构词法
+
+++++[#MediumSpringGreen] 派生
+
++++++[#LightGreen] 词根来源
+++++++[#Aquamarine]_ 日耳曼词汇
+++++++[#Aquamarine]_ 希腊语词汇
+++++++[#Aquamarine]_ 拉丁语词汇
+
++++++[#LightGreen] 组合方式
+++++++[#Aquamarine]_ 前缀（可以有多个）
++++++++[#LightYellow]_ 改变词向，一般不改变词性
+++++++[#Aquamarine]_ 词根（可以有多个，一般一个一下）
++++++++[#LightYellow]_ 决定词义
+++++++[#Aquamarine]_ 后缀（可以有多个）
++++++++[#LightYellow]_ 可改变词性
+
++++++[#LightGreen] 特例
+++++++[#Aquamarine]_ 词根词缀在组合过程中，处于发音的考虑，会增减字母，甚至修改字母
++++++++[#LightYellow]_ pentagon | reddish | structural | maintenance | description
+
+++++[#MediumSpringGreen] 合成
++++++[#LightGreen] 方式
+++++++[#Aquamarine]_ 多个单词组合
++++++++[#LightYellow]_ outbreak | one-way | high-class | beforehand
+
+++++[#MediumSpringGreen] 混合
++++++[#LightGreen] 方式
+++++++[#Aquamarine]_ 偷懒合成
++++++++[#LightYellow]_ brunch | breakfast | lunch
++++++++[#LightYellow]_ smog | smoke | fog
++++++++[#LightYellow]_ smaze | smoke | haze
++++++++[#LightYellow]_ webinar | website | seminar
+
+++++[#MediumSpringGreen] 截短
++++++[#LightGreen] 方式
+++++++[#Aquamarine]_ 去头或去尾
++++++++[#LightYellow]_ telephone | airplane | mathematics | examination | application | influenza
+
+++++[#MediumSpringGreen] 缩写
++++++[#LightGreen] 方式
+++++++[#Aquamarine]_ 取首写字母，一般是大写
++++++++[#LightYellow]_ VIP | IELTS | TOEFL | radar | Radio Detecting And Ranging
+
+++++[#MediumSpringGreen] 转化
++++++[#LightGreen] 方式
+++++++[#Aquamarine]_ 词性转化
++++++++[#LightYellow]_ educate
+
+
+
++++[#Pink] 标点
+
+++++[#MediumSpringGreen] 常用
+
++++++[#LightGreen]_ Comma	逗号
++++++[#LightGreen]_ Full Stop | Period	句号
++++++[#LightGreen]_ Colon	冒号
++++++[#LightGreen]_ Semicolon	分号
++++++[#LightGreen]_ Exclamation Mark | Point	感叹号
++++++[#LightGreen]_ Question Mark	问号
++++++[#LightGreen]_ Quotation Mark	引号
++++++[#LightGreen]_ Apostrophe	撇号
++++++[#LightGreen]_ Ellipsis	省略号
++++++[#LightGreen]_ Hyphen	连字符
++++++[#LightGreen]_ Slash	斜线
++++++[#LightGreen]_ Dash	破折号
++++++[#LightGreen]_ Bracket | Parenthesis	括号
++++++[#LightGreen]_ Guillemets	书名号
+
+
+
++++[#Pink] 其他
+
+++++[#MediumSpringGreen] 限定词
+
++++++[#LightGreen] 限定
+
+++++++[#Aquamarine]_ 限定特指的范围
+++++++[#Aquamarine]_ 限定所有权
+++++++[#Aquamarine]_ 限定数量
+
++++++[#LightGreen] 词类
+
+++++++[#Aquamarine]_ 冠词 | a; the
+++++++[#Aquamarine]_ 名词所有格 | the rabbit's; the wolf's
+++++++[#Aquamarine]_ 物主代词 | my; your; his; her
+++++++[#Aquamarine]_ 指示代词 | this; that
+++++++[#Aquamarine]_ 疑问代词 | whose; which
+++++++[#Aquamarine]_ 关系代词 | whose; which
+++++++[#Aquamarine]_ 不定代词 | some; many; each; any
+++++++[#Aquamarine]_ 量词 | a lot of; plenty of
+++++++[#Aquamarine]_ 基数词 | one; two; three
+++++++[#Aquamarine]_ 序数词 | the first; the second; the third
+
++++++[#LightGreen] 位置
+
+++++++[#Aquamarine]_ 前位 | 某些不定代词；倍数词；分数次
+++++++[#Aquamarine]_ 中位 | 冠词；物主代词；某些不定代词
+++++++[#Aquamarine]_ 后位 | 基数词；序数词；量词
+
+
+++++[#MediumSpringGreen] 独立主格
+
+
+
+
+'英语兔英语介词 https://www.bilibili.com/video/BV1E64y1m75Z
+'你听说过英语的 "限定词" 吗 https://www.bilibili.com/video/BV1Ua411h7zo
+'你知道这些英语叹词吗 https://www.bilibili.com/video/BV1kS4y1r7gq
+'英语语法精讲合集 https://www.bilibili.com/video/BV1XY411J7aG
+'英语构词法 (背单词必备) https://www.bilibili.com/video/BV1r5411w7TY
+
+
+
+@endmindmap
