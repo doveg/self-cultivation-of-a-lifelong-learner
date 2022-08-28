@@ -1,0 +1,238 @@
+@startmindmap
+
++[#OrangeRed] SilentLetter
+
+++[#yellow] 不发音
+
++++[#Pink] 原因
+
+++++[#MediumSpringGreen] 先天失声
++++++[#LightGreen] 外来语进入英语，保留原有读音
++++++[#LightGreen] 典型
+++++++[#Aquamarine]_ h 开头的单词
++++++++[#GhostWhite] 比如：honest, honour
+++++++[#Aquamarine]_ 法语中，h 是不发音的
+
+++++[#MediumSpringGreen] 后天失声
+
++++++[#LightGreen] 读音简化
+++++++[#Aquamarine]_ 两个辅音同时出现
++++++++[#GhostWhite] 比如：knot, castle, cupboard, grandma
+++++++[#Aquamarine]_ 元音弱读，甚至不发音了
++++++++[#GhostWhite] 比如：medicine, parliament, logically
+
+++++[#MediumSpringGreen] 借尸还魂
+
++++++[#LightGreen] 拉丁语的复古
++++++[#LightGreen] 典型
+++++++[#Aquamarine]_ doubt 在中古英语中是 doute，来源于古法语 doute
+++++++[#Aquamarine]_ 源头是拉丁语 dubitare，就被硬加了个 b
+
+
++++[#Pink] 字母一定发音
+
+++++[#LightYellow] f
++++++[#LightGreen] 只要出现就会发音
+
+++++[#LightYellow] q
++++++[#LightGreen] 只要出现就会发音
+
+++++[#LightYellow] v
++++++[#LightGreen] 只要出现就会发音
+
+
++++[#Pink] 字母几乎都发音
+
+++++[#GhostWhite] j
++++++[#LightGreen] 几乎都发音
+++++++[#Aquamarine]_ marijuana | 大麻
+
+++++[#GhostWhite] r
++++++[#LightGreen] 几乎都发音
+++++++[#Aquamarine]_ 词首的都发音
+++++++[#Aquamarine]_ 词中词尾的话会和其他字母组合
++++++++[#Aquamarine]_ 有些词尾的 r，英音中可以不发音，美音中会 r 化
+
+++++[#GhostWhite] x
++++++[#LightGreen] 几乎都发音
+++++++[#Aquamarine]_ faux | 人造的，仿制的
+
+++++[#GhostWhite] y
++++++[#LightGreen] 几乎都发音
+
+++++[#GhostWhite] z
++++++[#LightGreen] 几乎都发音
+++++++[#Aquamarine]_ rendezvous
+
+
++++[#Pink] 字母规律性不发音
+
+++++[#MediumSpringGreen] b
++++++[#LightGreen] 出现在词尾
+++++++[#Aquamarine]_ doubt
+++++++[#Aquamarine]_ debt
+++++++[#Aquamarine]_ lamb
+++++++[#Aquamarine]_ climb
+
+++++[#MediumSpringGreen] e
++++++[#LightGreen] 表示 e 前的元音发长音 / 双元音
+++++++[#Aquamarine]_ give
+++++++[#Aquamarine]_ imagine
+++++++[#Aquamarine]_ fine
+
+++++[#MediumSpringGreen] g
++++++[#LightGreen] 词首，n 之前
+++++++[#Aquamarine]_ gnaw | 啃咬
+++++++[#Aquamarine]_ gnome | 守护精灵像
+++++++[#Aquamarine]_ gnat | 蚋
++++++[#LightGreen] 词尾，n 之前
+++++++[#Aquamarine]_ reign | 统治
+++++++[#Aquamarine]_ foreign | 外国的
+++++++[#Aquamarine]_ sign
+
+++++[#MediumSpringGreen] k
++++++[#LightGreen] 词首，n 之前
+++++++[#Aquamarine]_ knot | n.（用绳索等打的）结；发髻；节子；节疤 | v.把…打成结（或扎牢）；缠结；打发髻；紧缩
+++++++[#Aquamarine]_ knife
+++++++[#Aquamarine]_ knee
+++++++[#Aquamarine]_ knight
+++++++[#Aquamarine]_ know
+
+
+++++[#MediumSpringGreen] n
++++++[#LightGreen] 词尾，m 之后
+++++++[#Aquamarine]_ solemn | 肃穆的
+++++++[#Aquamarine]_ column | 柱
+++++++[#Aquamarine]_ autumn
+
+
+++++[#MediumSpringGreen] t
++++++[#LightGreen] 主要在 s 和 f 之后
+++++++[#Aquamarine]_ mortgage | 按揭
+++++++[#Aquamarine]_ rapport | 亲善
+++++++[#Aquamarine]_ fasten
+++++++[#Aquamarine]_ soften
+++++++[#Aquamarine]_ listen
+++++++[#Aquamarine]_ castle
+
+
+++++[#MediumSpringGreen] u
++++++[#LightGreen] u 在 g 后面，表示 g 读 /g/，而不是 /dʒ/
+++++++[#Aquamarine]_ guard
+++++++[#Aquamarine]_ guilt
+
+++++[#MediumSpringGreen] w
++++++[#LightGreen] 通常位于词首，主要在 r 前面
+++++++[#Aquamarine]_ wrap | 包裹
+++++++[#Aquamarine]_ wrist | 手腕
+++++++[#Aquamarine]_ who
+++++++[#Aquamarine]_ whole
+++++++[#Aquamarine]_ answer
+++++++[#Aquamarine]_ sword
+
+
+
++++[#Pink] 字母可能不发音
+
+++++[#MediumSpringGreen] a
++++++[#LightGreen] 因为弱读和同化，不发音
+++++++[#Aquamarine]_ logically
+++++++[#Aquamarine]_ musically
+++++++[#Aquamarine]_ extraordinary
+
+++++[#MediumSpringGreen] c
++++++[#LightGreen] 不发音的典型
+++++++[#Aquamarine]_ indict | 控告
+++++++[#Aquamarine]_ scissors | 剪刀
+++++++[#Aquamarine]_ czar
+++++++[#Aquamarine]_ acquire
+++++++[#Aquamarine]_ muscle
+++++++[#Aquamarine]_ excel
+
+++++[#MediumSpringGreen] d
++++++[#LightGreen] 不发音的典型
+++++++[#Aquamarine]_ Wednesday
+++++++[#Aquamarine]_ grandpa
+++++++[#Aquamarine]_ handkerchief | 手帕
+++++++[#Aquamarine]_ handsome
+
+++++[#MediumSpringGreen] h
++++++[#LightGreen] 不发音的很多
+++++++[#Aquamarine]_ hour
+++++++[#Aquamarine]_ Buddha
+++++++[#Aquamarine]_ ghost
+++++++[#Aquamarine]_ rhyme | 韵律
+++++++[#Aquamarine]_ exhibit | 展览
+++++++[#Aquamarine]_ silhouette | 剪影
+
+++++[#MediumSpringGreen] i
++++++[#LightGreen] 不发音的少见
+++++++[#Aquamarine]_ friend
+++++++[#Aquamarine]_ business
+
+++++[#MediumSpringGreen] l
++++++[#LightGreen] 不发音的典型
+++++++[#Aquamarine]_ yolk | 蛋黄
+++++++[#Aquamarine]_ salmon | 鲑鱼
+++++++[#Aquamarine]_ calm | 冷静的
+++++++[#Aquamarine]_ could
+++++++[#Aquamarine]_ should
+++++++[#Aquamarine]_ talk
+
+++++[#MediumSpringGreen] m
++++++[#LightGreen] 不发音的很少
+++++++[#Aquamarine]_ mnemonic | 助记符号
+
+++++[#MediumSpringGreen] o
++++++[#LightGreen] 不发音的很少
+++++++[#Aquamarine]_ chocolate
+++++++[#Aquamarine]_ leopard | 豹
+
+++++[#MediumSpringGreen] p
++++++[#LightGreen] 词首，希腊语词源词汇
+++++++[#Aquamarine]_ receipt | 收据
+++++++[#Aquamarine]_ psychology | 心理学
+++++++[#Aquamarine]_ pneumonia | 肺炎
+++++++[#Aquamarine]_ cupboard | 橱柜
+++++++[#Aquamarine]_ raspberry | 树莓
+++++++[#Aquamarine]_ pterodactyl | 翼指龙
+
+++++[#MediumSpringGreen] s
++++++[#LightGreen] 不发音的典型
+++++++[#Aquamarine]_ debris | 残骸
+++++++[#Aquamarine]_ bourgeois | 资产阶级的
+++++++[#Aquamarine]_ aisle | 过道
+++++++[#Aquamarine]_ island
+
+
++++[#Pink] 字母一定不发音
+
+++++[#MediumSpringGreen] gh
++++++[#LightGreen] 原因
+++++++[#Aquamarine]_ 中古英语 gh 发 /x/ 音，后来英语中 /x/ 音消失，gh 也就随之沉默了
+
+
+
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
+
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#GhostWhite] 7
+++++++++[#LightYellow] 8
+
+++++[#AliceBlue] 4
++++++[#GhostWhite] 5
+++++++[#LightBlue] 6
+
+
+
+'不发音的英文字母 https://www.bilibili.com/video/BV1aT411c72k
+
+
+@endmindmap
