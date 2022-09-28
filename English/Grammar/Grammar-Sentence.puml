@@ -1,0 +1,146 @@
+@startmindmap
+
++[#OrangeRed] Sentence Form | 句型
+
+++[#yellow] 分类
+
++++[#Pink] 按复杂程度
+
+++++[#MediumSpringGreen] 简单句
+
++++++[#LightGreen] 简单句句型
+
+++++++[#Aquamarine] 五大句型
+
++++++++[#LightYellow]_ The rabbit slept.
++++++++[#LightYellow]_ 主语 + 谓语动词
++++++++[#LightYellow]_ The rabbit ate a carrot.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 宾语
++++++++[#LightYellow]_ The rabbit gave the wolf a carrot.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 间接宾语 + 直接宾语
++++++++[#LightYellow]_ The rabbit consider the carrot tasty.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 宾语 + 宾语补足语
++++++++[#LightYellow]_ The rabbit is smart.
++++++++[#LightYellow]_ 主语 + 连系动词 + 表语（主语补足语）
+
+++++++[#Aquamarine] 典型
+
++++++++[#LightYellow]_ The rabbit ate a carrot.
++++++++[#LightYellow]_ 主语 + 谓语 | 主语 + 谓语动词 + 宾语
++++++++[#LightYellow]_ The rabbit considered the carrot tasty.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 宾语 + 宾语补足语
++++++++[#LightYellow]_ The carrot is tasty.
++++++++[#LightYellow]_ 主语 + 连系动词 + 主语补足语（表语）
++++++++[#LightYellow]_ The rabbit ate a tasty carrot quickly.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 定语 + 宾语 + 状语
++++++++[#LightYellow]_ The rabbit ate his lunch, a tasty carrot, quickly.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 宾语 + 同位语 + 状语
+
+
++++++[#LightGreen] 简单句成分
+
+++++++[#Aquamarine] 主语
++++++++[#LightYellow] 句子叙述的主体
+
+++++++[#Aquamarine] 谓语
++++++++[#LightYellow] 对主语动作状态或特征的陈述或说明
+
+++++++[#Aquamarine] 谓语动词
++++++++[#LightYellow] 背景
+++++++++[#GhostWhite] 可以表达时间、状态和语气（Tense, Aspect, Mood）
+++++++++[#GhostWhite] 一个简单句只能有一个谓语动词
+
++++++++[#LightYellow] 实义动词
+++++++++[#GhostWhite] 及物动词
+++++++++[#GhostWhite] 不及物动词
+
+++++++[#Aquamarine] 助动词
+
+++++++[#Aquamarine] 连系动词
++++++++[#LightYellow] 修饰主语
+++++++++[#GhostWhite] 比如 be
+
+++++++[#Aquamarine] 宾语
++++++++[#LightYellow] 间接宾语
++++++++[#LightYellow] 直接宾语
+
+++++++[#Aquamarine] 宾语补足语
++++++++[#LightYellow] 在宾语之后修饰宾语
+
+++++++[#Aquamarine] 主语补足语 | 表语
++++++++[#LightYellow] 修饰主语
+
+++++++[#Aquamarine] 定语
++++++++[#LightYellow] 修饰和限定宾语
+
+++++++[#Aquamarine] 状语
++++++++[#LightYellow] 描述谓语的情形和状况
+
+++++++[#Aquamarine] 同位语
++++++++[#LightYellow] 和某个成分（比如主语和宾语）有同等地位
+
+
+++++[#MediumSpringGreen] 复合句 | 并列复合句
+
++++++[#LightGreen] 复合句成分
+
+++++++[#Aquamarine] 连词
++++++++[#LightYellow] The carrot is tasty and the rabbit ate it.
++++++++[#LightYellow] 比如 and
+
+
+++++[#MediumSpringGreen] 复杂句 | 主从复杂巨
+
++++++[#LightGreen] 复杂句成分
+
+++++++[#Aquamarine] 定语从句
++++++++[#LightYellow] The rabbit ate the carrot that is tasty.
++++++++[#LightYellow] 比如 that, which
+
+
++++[#Pink] 按用途
+
+++++[#MediumSpringGreen] 陈述句
++++++[#LightGreen] 陈述事情，一般以句号结尾。
+
+++++[#MediumSpringGreen] 疑问句
++++++[#LightGreen] 一般疑问句
+++++++[#Aquamarine] 仅用是否回答即可
++++++++[#LightYellow] Did the rabbit eat the carrot?
+
++++++[#LightGreen] 特殊疑问句
+++++++[#Aquamarine] 回答需要提供具体信息
++++++++[#LightYellow] What did the rabbit eat?
++++++++[#LightYellow] 比如 When, Where, Who | Why, What, Which | How long, how many
+
++++++[#LightGreen] 选择疑问句
+++++++[#Aquamarine] 在问答中选择一个答案即可
++++++++[#LightYellow] Did the rabbit eat the carrot or an apple?
+
++++++[#LightGreen] 反义疑问句
+++++++[#Aquamarine] 带有附加疑问句，回答需要赞同或否定
++++++++[#LightYellow] The rabbit ate a carrot, didn't he?
+
+++++[#MediumSpringGreen] 祈使句
++++++[#LightGreen] 命令某人做某事
+
+++++[#MediumSpringGreen] 感叹句
++++++[#LightGreen] 感叹
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+
+
+'英语语法：句子成分 & 句子分类 https://www.bilibili.com/video/BV1Bq4y1h7AS
+
+
+@endmindmap
