@@ -1,0 +1,220 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] Verb | 动词
+
++++[#Pink] 动词句型
+
+++++[#MediumSpringGreen] 谓语动词
+
++++++[#LightGreen] 五类谓语动词
+
+++++++[#Aquamarine] 五大句型
+
++++++++[#LightYellow]_ The rabbit slept.
++++++++[#LightYellow]_ 主语 + 谓语动词
++++++++[#LightYellow]_ The rabbit ate a carrot.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 宾语
++++++++[#LightYellow]_ The rabbit gave the wolf a carrot.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 间接宾语 + 直接宾语
++++++++[#LightYellow]_ The rabbit consider the carrot tasty.
++++++++[#LightYellow]_ 主语 + 谓语动词 + 宾语 + 宾语补足语
++++++++[#LightYellow]_ The rabbit is smart.
++++++++[#LightYellow]_ 主语 + 连系动词 + 表语（主语补足语）
+
+
++++[#Pink] 动词分类
+
+++++[#MediumSpringGreen] 实义动词
+
++++++[#LightGreen] 动作承受者
+++++++[#Aquamarine] 及物动词 | transitive verb
++++++++[#LightYellow] 动词有对象，可以接宾语
+++++++[#Aquamarine] 不及物动词 | intransitive verb
++++++++[#LightYellow] 动词没有对象，不可以接宾语
+
++++++[#LightGreen] 动作状态
+++++++[#Aquamarine] 动作动词
++++++++[#LightYellow]_ 比如 eat
+++++++[#Aquamarine] 状态动词
++++++++[#LightYellow]_ 比如 have、feel、own、believe
+
++++++[#LightBlue] 其他
+++++++[#Aquamarine] 完全及物动词
++++++++[#LightYellow]_ 不需要宾语补语
+
+++++++[#Aquamarine] 不完全及物动词
++++++++[#LightYellow]_ 需要宾语补语
++++++++[#LightYellow] 使役动词
+++++++++[#GhostWhite]_ 比如 make
++++++++[#LightYellow] 认定动词
+++++++++[#GhostWhite]_ 比如 consider
++++++++[#LightYellow] 任命动词
+++++++++[#GhostWhite]_ 比如 elect
+
+
+++++[#MediumSpringGreen] Linking Verb | 连系动词 | 系动词
+
++++++[#LightGreen] 特点
+
+++++++[#Aquamarine] 连系起来赋值
++++++++[#LightYellow] 连系主语和主语补足语（表语）
+++++++[#Aquamarine]_ 比如 be | keep | stay | seem | appear | feel | become | turn | prove
+
++++++[#LightGreen] 分类
+++++++[#Aquamarine] 不及物动词
+++++++[#Aquamarine] 状态动词
+
+
+++++[#MediumSpringGreen] Auxiliary | 助动词 | 助词
+
++++++[#LightGreen] 特点
+++++++[#Aquamarine] 用于辅助主动词（构成谓语动词）
+++++++[#Aquamarine] 不能单独作为谓语动词
+
++++++[#LightGreen] 分类
+
+++++++[#Aquamarine] 基本助动词
++++++++[#LightYellow] 没有实际含义
++++++++[#LightYellow] 枚举
+++++++++[#GhostWhite]_ be | have | do
++++++++[#LightYellow] 但可以做实义动词，表示存在 | 做 | 有
+
+++++++[#Aquamarine] Modal Verb | 情态助动词
+
++++++++[#LightYellow] 可以辅助主动词（构成谓语动词）
++++++++[#LightYellow] 可以看作助动词的一种
+
++++++++[#LightYellow] 枚举
+++++++++[#GhostWhite]_ shall | should
+++++++++[#GhostWhite]_ will | would
+++++++++[#GhostWhite]_ can | could
+++++++++[#GhostWhite]_ may | might
+++++++++[#GhostWhite]_ dare | dared
+++++++++[#GhostWhite]_ must
+++++++++[#GhostWhite]_ need
+++++++++[#GhostWhite]_ ought to
+++++++++[#GhostWhite]_ used to
+
+++++++[#Aquamarine] Semi-Auxiliary | 半助动词
+
++++++++[#LightYellow] 枚举
+++++++++[#GhostWhite]_ be able to
+++++++++[#GhostWhite]_ be going to
+++++++++[#GhostWhite]_ be about to
+++++++++[#GhostWhite]_ had better
+
+
+
+++++[#MediumSpringGreen] Causative Verb | 使役动词
+
++++++[#LightGreen] 代表
+++++++[#Aquamarine] make
++++++++[#LightYellow] 迫使某人做某事
++++++++[#LightYellow] 跟动词原形（裸不定式，省略了 to）
+++++++[#Aquamarine] let
++++++++[#LightYellow] 让某人做某事
++++++++[#LightYellow] 跟动词原形（裸不定式，省略了 to）
+++++++[#Aquamarine] have
++++++++[#LightYellow] 让某人做某事、把某个任务指派给某人
++++++++[#LightYellow] 跟过去分词表被动
++++++++[#LightYellow] 可以作为实义动词、助动词、使役动词
+++++++[#Aquamarine] get
++++++++[#LightYellow] 说服某人做某事
++++++++[#LightYellow] 跟动词不定式
++++++++[#LightYellow] 跟过去分词表被动
+
++++++[#LightBlue] 其他
+++++++[#AliceBlue]_ force
+++++++[#AliceBlue]_ drive
+++++++[#AliceBlue]_ leave
+
+
+++++[#MediumSpringGreen] 非谓语动词 | 非限定性动词
+
++++++[#LightGreen] Infinitive | 动词不定式
+++++++[#Aquamarine] 比如 to 动词
++++++[#LightGreen] Gerund | 动名词
++++++[#LightGreen] Present Participle | 现在分词
++++++[#LightGreen] Past Participle | 过去分词
+
+
+
++++[#Pink] 动词时态
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+
+
++++[#Pink] 动词语气
+
+++++[#MediumSpringGreen] Inductive Mood | 陈述语气
++++++[#LightGreen]_ 描述现实
+
+
+++++[#MediumSpringGreen] Imperative Mood | 祈使语气
++++++[#LightGreen]_ 窍门：可以套用第二人称的一般现在时态，然后去掉主语
+
+
+++++[#MediumSpringGreen] Subjunctive Mood | 虚拟语气
+
++++++[#LightGreen] 与事实相反的假设
+
+++++++[#Aquamarine]_ 结构
++++++++[#LightYellow]_ 条件句：should |
++++++++[#LightYellow]_ 主句：would | should | could | might
+
+++++++[#Aquamarine]_ 与过去相反
++++++++[#LightYellow]_ if + 过去完成式, would have + 过去分词
+
+++++++[#Aquamarine]_ 与现在相反
++++++++[#LightYellow]_ if + 过去式, would + 动词原形
+
+++++++[#Aquamarine]_ 与将来相反
++++++++[#LightYellow]_ if + should + 动词原型, would + 动词原形
+++++++++[#GhostWhite]_ should 是 shall 的过去式，不是动词”应该“
+++++++++[#GhostWhite]_ should 可以用 were to 替代
+++++++++[#GhostWhite]_ If I should meet you after long years, how should I greet you?
+
++++++[#LightGreen] 表达愿望 | 请求 | 建议 | 命令···
+
+++++++[#Aquamarine] 希望某个动作或事件发生
++++++++[#LightYellow]_ wish 表发生的可能性小，需要魔法
+
+++++++[#Aquamarine] wish
++++++++[#LightYellow]_ 与过去相反
+++++++++[#GhostWhite]_ wish + 过去完成式
++++++++[#LightYellow]_ 与现在相反
+++++++++[#GhostWhite]_ wish + 过去式
++++++++[#LightYellow]_ 与将来相反
+++++++++[#GhostWhite]_ wish + would | could | might + 动词原型
+
+++++++[#Aquamarine] would rather | demand | suggest | insist | order
++++++++[#LightYellow]_ 相互转化：宾语从句 | 主语从句 | 主语补语从句
++++++++[#LightYellow]_ 定语从句：It is high time did sth
+
+
+++++[#MediumSpringGreen] 疑问语气
++++++[#LightGreen] 往往是在陈述语气的基础上，改变词序或者加助动词
+
+++++[#MediumSpringGreen] 条件语气
+
+++++[#MediumSpringGreen] 感叹语气
+
+
+
+
+
+'英语动词 https://www.bilibili.com/video/BV1J44y1W7Zx
+'英语 "使役动词" 为何如此重要 https://www.bilibili.com/video/BV1wS4y1o7et
+'英语语法：助动词 https://www.bilibili.com/video/BV1834y1r79u
+'你还搞不懂 "系动词"? "系" 到底啥意思 https://www.bilibili.com/video/BV1xF411v75p
+
+
+
+@endmindmap
