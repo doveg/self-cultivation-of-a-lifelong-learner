@@ -1,0 +1,64 @@
+@startmindmap
+
++[#OrangeRed] Punctuation
+
+++[#yellow] 标点
+
++++[#Pink] 分类
+
+++++[#MediumSpringGreen] 逗号 | comma | ,
++++++[#LightGreen]_ 断句
++++++[#LightGreen]_ 列举
++++++[#LightGreen]_ 同位语
++++++[#LightGreen]_ 引语短句
++++++[#LightGreen]_ 插入语
++++++[#LightGreen]_ 并列句，复杂句
++++++[#LightGreen]_ 附加疑问句
++++++[#LightGreen]_ 时间地点数字格式
+++++[#MediumSpringGreen] 句号 | full stop | period | .
++++++[#LightGreen]_ 陈述句结尾
++++++[#LightGreen]_ 缩略语之后
+
+++++[#MediumSpringGreen] 冒号 | colon | :
++++++[#LightGreen]_ 列举
++++++[#LightGreen]_ 引用
++++++[#LightGreen]_ 时间表达
+++++[#MediumSpringGreen] 分号 | semicolon | ;
++++++[#LightGreen]_ 并列
++++++[#LightGreen]_ 相关
+
+++++[#MediumSpringGreen] 引号 | quotation mark | ""
++++++[#LightGreen] 双引号 | double quotation mark | ""
++++++[#LightGreen] 单引号 | single quotation mark | ''
+++++++[#Aquamarine]_ 在双引号中出现
+++++[#MediumSpringGreen] 问号 | question mark | ?
++++++[#LightGreen]_ 表疑问
+++++[#MediumSpringGreen] 叹号 | exclamation mark | !
++++++[#LightGreen]_ 表感叹
+++++[#MediumSpringGreen] 省略号 | ellipsis | ...
++++++[#LightGreen]_ 省略
+++++[#MediumSpringGreen] 撇号 | apostrophe | '
++++++[#LightGreen]_ 用于构成所有格
+++++[#MediumSpringGreen] 连字符 | hyphen | -
++++++[#LightGreen]_ 用于构词，比如复合形容词
+
+++++[#MediumSpringGreen] 斜线 | slash | /
++++++[#LightGreen]_ or
+++++[#MediumSpringGreen] 破折号 | dash | —
++++++[#LightGreen] 备忘：中文破折号确实就是一对 em dash 字符
++++++[#LightGreen]_ 解释说明
++++++[#LightGreen]_ 表说明，比如同位语
++++++[#LightGreen]_ 表突然中断
+
+
+++[#yellow] 符号
+
++++[#Pink] 分类
+
+++++[#MediumSpringGreen] 星号
+
+
+'英语标点符号用法 https://www.bilibili.com/video/BV1Q34y1X7nB
+
+
+@endmindmap
