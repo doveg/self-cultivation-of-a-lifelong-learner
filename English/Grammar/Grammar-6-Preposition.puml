@@ -1,0 +1,214 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] 词类
+
++++[#Pink] Preposition | 介词
+
+++++[#MediumSpringGreen] 背景
++++++[#LightGreen] 前置词
+++++++[#Aquamarine]_ 常常置于名词之前，提供附加信息
+
++++++[#LightGreen] 附加信息分类
+++++++[#Aquamarine]_ 时间信息
+++++++[#Aquamarine]_ 空间信息
+++++++[#Aquamarine]_ 方式信息
+++++++[#Aquamarine]_ 逻辑信息
+
++++++[#LightGreen] 介词用法
+++++++[#Aquamarine]_ 表示空间
+++++++[#Aquamarine]_ 表示时间
+++++++[#Aquamarine]_ 表示方式
+++++++[#Aquamarine]_ 表示原因
+++++++[#Aquamarine]_ 表示关于
+++++++[#Aquamarine]_ 表示数值
+++++++[#Aquamarine]_ 表示状态
+++++++[#Aquamarine]_ 表示排除
+
++++++[#LightGreen] 构成形式
+++++++[#Aquamarine]_ 简单介词
+++++++[#Aquamarine]_ 短语介词
+++++++[#Aquamarine]_ 合成介词
+++++++[#Aquamarine]_ 分词介词
+
+++++[#MediumSpringGreen] 词汇
+
++++++[#LightGreen] 高级
+++++++[#Aquamarine] whereas
+++++++[#Aquamarine] despite
+
+++++++[#Aquamarine] about
++++++++[#GhostWhite]_ 大约
++++++++[#GhostWhite]_ 关于
++++++++[#GhostWhite]_ 针对
++++++++[#GhostWhite]_ 到处（来来回回）
+
++++++[#LightGreen] 基础
+++++++[#Aquamarine] until
++++++++[#GhostWhite]_ 直到
+++++++[#Aquamarine] along
++++++++[#GhostWhite]_ 沿着
+++++++[#Aquamarine] except
++++++++[#GhostWhite]_ 除了···之外
+
++++++[#LightGreen] 空间—静态
+
+++++++[#Aquamarine] in
++++++++[#GhostWhite]_ 在···里面
+++++++++[#LightYellow]_ in these situations
+
+++++++[#Aquamarine] on
++++++++[#GhostWhite]_ 在···上面
+++++++++[#LightYellow]_ on 在古英语里是 in 的另一种形式，两者含义有交叉
+++++++++[#LightYellow]_ on 强调表面和接触
+
+++++++[#Aquamarine] at
++++++++[#GhostWhite]_ 在某处
+++++++++[#LightYellow]_ at 强调某个确定的点
+
+++++++[#Aquamarine] over
++++++++[#GhostWhite]_ 在···上方，覆盖，越过上空
+++++++++[#LightYellow]_ 不接触，表示在···正上方
+++++++++[#LightYellow]_ 接触，表示覆盖
+
+++++++[#Aquamarine] under
++++++++[#GhostWhite]_ 在···下方
+++++++++[#LightYellow]_ 和 over 相对，表示在···正下方
+++++++++[#LightYellow]_ under these circumstances
+
+++++++[#Aquamarine] above
++++++++[#GhostWhite]_ 在···上方，高于某个平面
+++++++++[#LightYellow]_ above 强调高出，over 强调正上方，over 还可以描述动态
+
+++++++[#Aquamarine] below
++++++++[#GhostWhite]_ 在···下方，低于某个平面
+++++++++[#LightYellow]_ 和 above 相对
+
+++++++[#Aquamarine] near
++++++++[#GhostWhite]_ 在···附近
+++++++++[#LightYellow]_ near 强调附近范围内
+
+++++++[#Aquamarine] by
++++++++[#GhostWhite]_ 在···旁边
+
+++++++[#Aquamarine] beside
++++++++[#GhostWhite]_ 在···旁边
+++++++++[#LightYellow]_ by 和 beside 通常可以互换
+++++++++[#LightYellow]_ by 和 beside 强调接近
+
+++++++[#Aquamarine] next to
++++++++[#GhostWhite]_ 靠近，紧挨着
+++++++++[#LightYellow]_ next to 强调相邻
+
+++++++[#Aquamarine] in front of
++++++++[#GhostWhite]_ 在···前方
+
+++++++[#Aquamarine] behind
++++++++[#GhostWhite]_ 在···后方
+
+++++++[#Aquamarine] before
++++++++[#GhostWhite]_ 在···前方
+++++++++[#LightYellow]_ 很少用作表空间的介词
++++++++[#GhostWhite]_ 在观众或众人面前
+++++++++[#LightYellow]_ She played the violin before the crowd.
+
+++++++[#Aquamarine] between
++++++++[#GhostWhite]_ 在···之间
+++++++++[#LightYellow]_ between 侧重两者之间
+++++++++[#LightYellow]_ 常和 and 一起使用
+++++++++[#LightYellow]_ 多个物体两两比较，也可以用 between
+
+++++++[#Aquamarine] among
++++++++[#GhostWhite]_ 在···之间
+++++++++[#LightYellow]_ among 侧重两者以上之间
+++++++++[#LightYellow]_ between 常用来取代 among，表示多者之间
+
+++++++[#Aquamarine] with
++++++++[#GhostWhite]_ 某个点上
+
+
+
++++++[#LightGreen] 空间—动态
+
+++++++[#Aquamarine] over
++++++++[#GhostWhite]_ 越过上空
+++++++++[#LightYellow]_ over 强调上空穿过
+
+++++++[#Aquamarine] across
++++++++[#GhostWhite]_ 横过
+++++++++[#LightYellow]_ across 强调表面穿过
+
+++++++[#Aquamarine] through
++++++++[#GhostWhite]_ 穿过
+++++++++[#LightYellow]_ through 强调从内部穿过
+
+++++++[#Aquamarine] past
++++++++[#GhostWhite]_ 经过，路过
+++++++++[#LightYellow]_ past 强调从旁边经过
+
+++++++[#Aquamarine] along
++++++++[#GhostWhite]_ 沿着，顺着
+
+++++++[#Aquamarine] to
++++++++[#GhostWhite]_ 向，朝
+
+++++++[#Aquamarine] toward
++++++++[#GhostWhite]_ 朝着···方向
+
+++++++[#Aquamarine] onto
++++++++[#GhostWhite]_ 到···上面
+
+++++++[#Aquamarine] into
++++++++[#GhostWhite]_ 到···里面
+
+++++++[#Aquamarine] out of
++++++++[#GhostWhite]_ 从···里面出来
+
+++++++[#Aquamarine] opposite
++++++++[#GhostWhite]_ 在···对面
+
+++++++[#Aquamarine] against
++++++++[#GhostWhite]_ 与···相反，倚靠
+
+++++++[#Aquamarine] round
++++++++[#GhostWhite]_ 围绕，环绕
++++++++[#GhostWhite]_ 和 around 意思相近，可以互换
+
+
+
++++++[#LightGreen] 空间—副词介词
+
+++++++[#Aquamarine] up
++++++++[#GhostWhite]_ 沿···向上
+++++++++[#LightYellow]_ up the hill
+
+++++++[#Aquamarine] down
++++++++[#GhostWhite]_ 沿···向下
+++++++++[#LightYellow]_ roll down the hill
+
+++++++[#Aquamarine] off
++++++++[#GhostWhite]_ 离···有一定距离
+++++++++[#LightYellow]_ New Zealand lies off the eastern coast of Australia.
+
+
+
++++++[#LightGreen] 时间
+
+++++++[#Aquamarine] in
++++++++[#GhostWhite]_ 某个时间范围内，非特定时间点
+++++++++[#LightYellow]_ in the morning
+++++++[#Aquamarine] on
++++++++[#GhostWhite]_ 特指某天
+++++++++[#LightYellow]_ 如果把一天以上的时间看成三维的，一天就只是一个平面
+++++++++[#LightYellow]_ on the morning of April 1st
+++++++[#Aquamarine] at
++++++++[#GhostWhite]_ 特指某个时间点
+++++++++[#LightYellow]_ at noon
+
+
+
+'英语介词攻略 https://www.bilibili.com/video/BV1E64y1m75Z
+
+
+@endmindmap
