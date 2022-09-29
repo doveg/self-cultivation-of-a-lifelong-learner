@@ -1,0 +1,128 @@
+@startmindmap
+
++[#OrangeRed] IELTS
+
+++[#yellow] 雅思
+
++++[#Pink] 项目
+
+++++[#MediumSpringGreen] 口语
+
+
++++++[#LightGreen] 题型
+
+++++++[#Aquamarine] part 1
++++++++[#GhostWhite] 上班
++++++++[#GhostWhite] 学习
++++++++[#GhostWhite] 介绍家乡
++++++++[#GhostWhite] 基本寒暄
++++++++[#GhostWhite] 5 分钟
++++++++[#GhostWhite] 问你的日常，介绍兴趣习惯
+
+++++++[#Aquamarine] part 2
++++++++[#GhostWhite] 一分钟的时间准备
++++++++[#GhostWhite] 1 - 2 分钟的陈述
++++++++[#GhostWhite] 可能会在附加提出 1 - 2 问题
+
+++++++[#Aquamarine] part 3
++++++++[#GhostWhite] 提出一些较抽象，总结，概括性的问题
++++++++[#GhostWhite] 4 - 5 分钟的陈述
++++++++[#GhostWhite] 分析，对比，解释和阐述的能力
+
++++++[#LightGreen] 策略
+++++++[#Aquamarine] 背诵输入、句型为重
+
++++++[#LightGreen] 关键
+++++++[#Aquamarine] 结构化的思维
+++++++[#Aquamarine] 虚拟语气
+++++++[#Aquamarine] 简单的句子 + 地道的表达
+
+++++[#MediumSpringGreen] 写作
+
++++++[#LightGreen] 题型
+
+++++++[#Aquamarine] 小作文
++++++++[#GhostWhite] 150 字
++++++++[#GhostWhite] 曲线图、饼图、柱状图、表图
+++++++[#Aquamarine] 大作文
++++++++[#GhostWhite] 250 字
++++++++[#GhostWhite] 一般是议论文
+
++++++[#LightGreen] 策略
+++++++[#Aquamarine] 谋篇布局、逻辑、词汇、语法
+
++++++[#LightGreen] 关键
+++++++[#Aquamarine] 结构
+++++++[#Aquamarine] 同义替换
+++++++[#Aquamarine] 高级词汇
+++++++[#Aquamarine] 高级句式
+
+
+++++[#MediumSpringGreen] 听力
+
++++++[#LightGreen] 题型
+
+++++++[#Aquamarine] Section 1
++++++++[#GhostWhite] 生活场景
++++++++[#GhostWhite] 双人对话
+
+++++++[#Aquamarine] Section 2
++++++++[#GhostWhite] 生活场景
++++++++[#GhostWhite] 单人介绍
+
+++++++[#Aquamarine] Section 3
++++++++[#GhostWhite] 学习场景
++++++++[#GhostWhite] 教师和学生的讨论
+
+++++++[#Aquamarine] Section4
++++++++[#GhostWhite] 学习场景
++++++++[#GhostWhite] 教授讲授学科
+
++++++[#LightGreen] 关键
+++++++[#Aquamarine] 同义替换
+++++++[#Aquamarine] 高频词
+
+
+++++[#MediumSpringGreen] 阅读
+
++++++[#LightGreen] 题型
+++++++[#Aquamarine] 单词题
+++++++[#Aquamarine] 句子题
+++++++[#Aquamarine] 断落题
+++++++[#Aquamarine] 匹配题
+
++++++[#LightGreen] 关键
+++++++[#Aquamarine] 长难句
+
+
++++[#Pink] 准备
+
+++++[#MediumSpringGreen] 话题
++++++[#LightGreen] 上班
++++++[#LightGreen] 学习
++++++[#LightGreen] 介绍家乡
+
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#GhostWhite] 7
+++++++++[#LightYellow] 8
+
+++++++[#Aquamarine]_ 6
++++++++[#GhostWhite]_ 7
+++++++++[#LightYellow]_ 8
+
+++++[#AliceBlue] 4
++++++[#GhostWhite] 5
+++++++[#LightBlue] 6
+
+
+
+
+@endmindmap
