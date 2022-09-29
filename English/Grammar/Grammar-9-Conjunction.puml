@@ -1,0 +1,86 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] 词类
+
++++[#Pink] Conjunction | 连词
+
+++++[#MediumSpringGreen] 分类
+
++++++[#LightGreen] 并列连词
+
+++++++[#Aquamarine] 并列关系
++++++++[#LightYellow]_ 比如 and | both and | not only but also | neither nor
+
+++++++[#Aquamarine] 选择关系
++++++++[#LightYellow]_ 比如 or | or else | otherwise| either or  | neither nor
++++++++[#LightYellow]_ 所有格遵循就近原则
+
+++++++[#Aquamarine] 转折关系
++++++++[#LightYellow]_ 比如 but | yet
+
+++++++[#Aquamarine] 因果关系
++++++++[#LightYellow]_ 比如 so | Therefore | for
+
+
++++++[#LightGreen] 从属连词
+
+++++++[#Aquamarine] 名词性从句
+
++++++++[#LightYellow] 主语从句
+++++++++[#GhostWhite]_ 比如 that
+
++++++++[#LightYellow] 宾语从句
+++++++++[#GhostWhite]_ 比如 that
+
++++++++[#LightYellow] 主语补足语（表语）从句
+++++++++[#GhostWhite]_ 比如 if
+
++++++++[#LightYellow] 宾语补足语（表语）从句
+++++++++[#GhostWhite]_ 少见
+
++++++++[#LightYellow] 同位语从句
+++++++++[#GhostWhite]_ 比如 whether
+
+
+++++++[#Aquamarine] 副词性从句
+
++++++++[#LightYellow] 状语从句
+
+++++++++[#GhostWhite] 时间
++++++++++[#GhostWhite]_ 比如 when | while | as | before | after | until | since
+
+++++++++[#GhostWhite] 地点
++++++++++[#GhostWhite]_ 比如 where | wherever
+
+++++++++[#GhostWhite] 比较
++++++++++[#GhostWhite]_ 比如 than | as
+
+++++++++[#GhostWhite] 条件
++++++++++[#GhostWhite]_ 比如 if | unless
+
+++++++++[#GhostWhite] 让步
++++++++++[#GhostWhite]_ 比如 although | though | even though | even if | while
+
+++++++++[#GhostWhite] 方式
++++++++++[#GhostWhite]_ 比如 as | as if | as though
+
+++++++++[#GhostWhite] 原因
++++++++++[#GhostWhite]_ 比如 because | since | as
+
+++++++++[#GhostWhite] 目的
++++++++++[#GhostWhite]_ 比如 in order that | so that | so
+
+++++++++[#GhostWhite] 结果
++++++++++[#GhostWhite]_ 比如 so that | such that | so
+
+
+
+
+
+'英语语法：连词 https://www.bilibili.com/video/BV1Rq4y1u78j
+
+
+
+@endmindmap
