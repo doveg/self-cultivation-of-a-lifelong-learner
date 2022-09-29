@@ -1,0 +1,54 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] 词类
+
++++[#Pink] Adverb | 副词
+
+++++[#MediumSpringGreen] 用法
+
++++++[#LightGreen] 修饰的词性
+++++++[#Aquamarine] 动词
+++++++[#Aquamarine] 形容词
+++++++[#Aquamarine] 副词
+++++++[#Aquamarine] 名词
+++++++[#Aquamarine] 整句
+
++++++[#LightGreen] 句中的成分
+++++++[#Aquamarine] 状语
+++++++[#Aquamarine] 定语
+++++++[#Aquamarine] 主语补足语
+++++++[#Aquamarine] 宾语补足语
+
+++++[#MediumSpringGreen] 形式
++++++[#LightGreen] 和形容词同拼写
+++++++[#Aquamarine] 保持同义或者近义
++++++++[#GhostWhite] 比如 fast
++++++++[#GhostWhite] 比如 fast
+++++++[#Aquamarine] 但是意义不同
++++++++[#GhostWhite] 比如 pretty 意义变成相当
++++++[#LightGreen] 形容词词尾去 e 加 ly
+++++++[#Aquamarine] 保持同义或者近义
++++++++[#GhostWhite] 比如 quick, quickly；possible, possibly；true, truly
+++++++[#Aquamarine] 但是意义不同
++++++++[#GhostWhite] 比如 large, largely；largely 意义不是大的，而是基本上
+
+++++[#MediumSpringGreen] 种类
++++++[#LightGreen] 方式副词
++++++[#LightGreen] 程度副词
++++++[#LightGreen] 地点副词
++++++[#LightGreen] 时间副词
++++++[#LightGreen] 频率副词
++++++[#LightGreen] 疑问副词
++++++[#LightGreen] 连接副词
++++++[#LightGreen] 关系副词
++++++[#LightGreen] 句子副词
+
+
+
+'英语语法: 副词 https://www.bilibili.com/video/BV1Ti4y1Z7FQ
+
+
+
+@endmindmap
