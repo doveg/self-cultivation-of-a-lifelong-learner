@@ -1,0 +1,94 @@
+@startmindmap
+
++[#OrangeRed] Vocabulary
+
+++[#yellow] 词汇
+
++++[#Pink] 英语
+
+++++[#MediumSpringGreen] 词汇来源
++++++[#LightGreen] 日耳曼词汇
++++++[#LightGreen] 拉丁语词汇
++++++[#LightGreen] 希腊语词汇
+
+++++[#MediumSpringGreen] 本质来源
++++++[#LightGreen] 原始印欧语
+
+
++++[#Pink] 语言
+
+++++[#MediumSpringGreen] 印欧语系
+
++++++[#LightGreen] 日耳曼语族
+++++++[#Aquamarine] 西日耳曼语支
++++++++[#LightYellow] 英语
++++++++[#LightYellow] 德语
++++++++[#LightYellow] 荷兰语
+++++++[#Aquamarine] 北日耳曼语支
++++++++[#LightYellow] 瑞典语
++++++++[#LightYellow] 丹麦语
++++++++[#LightYellow] 挪威语
++++++++[#LightYellow] 冰岛语
+
++++++[#LightGreen] 希腊语族
+++++++[#Aquamarine] 古马其顿语支
+++++++[#Aquamarine] 古希腊语支
++++++++[#LightYellow] 现代希腊语
+
++++++[#LightGreen] 意大利语族
+++++++[#Aquamarine] 拉丁-法利希语支
++++++++[#LightYellow] 拉丁语
+++++++++[#LightYellow] 通俗拉丁语
++++++++++[#GhostWhite] 罗曼语族
+++++++++++[#LightYellow] 法语
+++++++++++[#LightYellow] 意大利语
+++++++++++[#LightYellow] 西班牙语
+++++++++++[#LightYellow] 葡萄牙语
+++++++++[#GhostWhite] 古典拉丁语
++++++++[#LightYellow] 法利希语
+
++++++[#LightGreen] 凯尔特语族
+++++++[#Aquamarine] 盖尔语支
++++++++[#LightYellow] 爱尔兰语
+
++++++[#LightGreen] 印度-伊朗语族
+++++++[#Aquamarine] 印地语
+++++++[#Aquamarine] 伊朗语
+
++++++[#LightGreen] 波罗的-斯拉夫语族
+++++++[#Aquamarine] 俄语
+++++++[#Aquamarine] 捷克语
+++++++[#Aquamarine] 波兰语
+
+++++[#MediumSpringGreen] 汉藏语系
+++++[#MediumSpringGreen] 突厥语系
+++++[#MediumSpringGreen] 日本语系
+++++[#MediumSpringGreen] 朝鲜语系
+
+
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++++[#Aquamarine]_ 6
++++++++[#LightYellow]_ 7
+++++++++[#GhostWhite]_ 8
+
+++++[#AliceBlue] 4
++++++[#GhostWhite] 5
+++++++[#LightBlue] 6
+
+
+'颠覆你对英语词汇的认知 https://www.bilibili.com/video/BV15Y4y1p7mL
+
+
+
+@endmindmap
