@@ -1,0 +1,105 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] 词类
+
++++[#Pink] Adjective | 形容词
+
+++++[#MediumSpringGreen] 形容词用法
+
++++++[#LightGreen] 定语
+
+++++++[#Aquamarine] 前置定语
++++++++[#LightYellow] 限定词 + 主管特征 + 尺寸 + 形状 + 新旧 + 颜色 + 来源 + 材料 + 用途
+
+++++++[#Aquamarine] 后置定语
++++++++[#LightYellow] somebody | anybody | everything | nothing
+
+++++++[#Aquamarine] 形容词短语作为定语
++++++++[#LightYellow] 非谓语动词：动词不定式 | 动名词 | 现在分词 | 过去分词
++++++++[#LightYellow] 可以用定语从句进行替换
+++++++++[#GhostWhite]_ The rabbit that is busy eating carrots.
+
++++++[#LightGreen] 补足语
+
+++++++[#Aquamarine] 主语补足语（表语）
+
++++++++[#LightYellow] 只能做主语补足语的形容词
+++++++++[#GhostWhite]_ alive | asleep | alone
++++++++[#LightYellow] 表示身体状况的形容词
+++++++++[#GhostWhite]_ ill | well
+
+++++++[#Aquamarine] 宾语补足语
++++++++[#LightYellow] Carrot makes rabbits happy.
+
++++++[#LightGreen] 状语
+
+++++++[#Aquamarine]_ The rabbit came home, tired and hungry.
+
+
+++++[#MediumSpringGreen] 符合形容词的构成
+
++++++[#LightGreen] 形容词 + 形容词 | 现在分词 | 过去分词
+++++++[#Aquamarine]_ red-hot | good-looking | new-born
+
++++++[#LightGreen] 副词 + 形容词 | 现在分词 | 过去分词
+++++++[#Aquamarine]_ all-round | hard-working | recently-built
+
++++++[#LightGreen] 形容词 | 数词 + 名词
+++++++[#Aquamarine]_ white-haired | kind-hearted
++++++++[#LightYellow]_ 相当于定语从句：whose heart is kind
+++++++[#Aquamarine]_ long-distance | one-way
+
++++++[#LightGreen] 名词 + 形容词 | 现在分词 | 过去分词
+++++++[#Aquamarine]_ snow-white | carrot-eating | heart-broken
+
+
+++++[#MediumSpringGreen] 形容词比较级和最高级
+
++++++[#LightGreen] 构成
+
+++++++[#Aquamarine] 规则
+
++++++++[#LightYellow] 一般：加 er | est
++++++++[#LightYellow] 以 e 结尾的：加 r | st
++++++++[#LightYellow] 以 y 结尾的：y 改为 i，再加 er | est
++++++++[#LightYellow] 重读闭音节单词：双写词尾，再加 er | est
++++++++[#LightYellow] 多音节词 | 部分双音节词：词前加 more | most
+
+++++++[#Aquamarine] 不规则
++++++++[#LightYellow]_ good | better | best
++++++++[#LightYellow]_ bad | worse | worst
++++++++[#LightYellow]_ many | more | most
++++++++[#LightYellow]_ little | less | least
+
+
++++++[#LightGreen] 用法
+
+++++++[#Aquamarine] 比较级
+
++++++++[#LightYellow] 越来越
+++++++++[#GhostWhite]_ more and more
++++++++[#LightYellow] 越···越···
+++++++++[#GhostWhite]_ the more, the more
++++++++[#LightYellow] 大几倍
+++++++++[#GhostWhite]_ This carrot is three times bigger than that one.
++++++++[#LightYellow] 一样大
+++++++++[#GhostWhite]_ This carrot is three times as big as that one.
+
+
+++++++[#Aquamarine] 最高级
+
++++++++[#LightYellow] in + 地点
++++++++[#LightYellow] of + 所属范围
++++++++[#LightYellow] 最高只有一个，用特指：the + most
++++++++[#LightYellow] most 还可以表示非常，相当于 very much
+
+
+
+
+'英语语法: 形容词 https://www.bilibili.com/video/BV1244y1h77h
+
+
+
+@endmindmap
