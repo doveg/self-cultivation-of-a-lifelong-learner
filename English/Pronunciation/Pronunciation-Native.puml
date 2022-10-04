@@ -1,0 +1,207 @@
+@startmindmap
+
++[#OrangeRed] Pronunciation
+
+++[#yellow] Native
+
++++[#Pink] Connected Speech | 连读
+
+++++[#MediumSpringGreen] liaison | 连读（狭义）
+
++++++[#LightGreen] 辅音结尾的单词 + 元音开头的单词
+++++++[#Aquamarine]_ all of if | not at all | take it easy | in an instant
++++++[#LightGreen] Linking | 连音
+++++++[#Aquamarine]_ 英音，词尾 r 本来不发音
+++++++[#Aquamarine]_ bear it | gear up | far away
+
+
+++++[#MediumSpringGreen] intrusion | 加音
+
++++++[#LightGreen] 元音 + 元音
+++++++[#Aquamarine] 冠词 a 遇到元音开头单词，要变成 an，使得发音连贯
+
++++++[#LightGreen] 元音结尾的单词 + 元音开头的单词
+++++++[#Aquamarine] 加一个过渡音，使得发音连贯
+
++++++++[#LightYellow] 加 /w/
+++++++++[#GhostWhite]_ 发音时口型会自然生成这个音
+++++++++[#GhostWhite]_ just do it | who is | too often
+
++++++++[#LightYellow] 加 /j/
+++++++++[#GhostWhite]_ 发音过度中会自然生成这个音
+++++++++[#GhostWhite]_ I am | she asked
+
++++++++[#LightYellow] 加 /r/
+++++++++[#GhostWhite]_ 英音
+++++++++[#GhostWhite]_ the idea of | law and order | China and india
+
+
+++++[#MediumSpringGreen] assimilation | 同化
+
++++++[#LightGreen] 逆行同化
+++++++[#Aquamarine] 前面音受后面音的影响
+++++++[#Aquamarine] unreleased stop | 无声除阻
++++++++[#LightYellow]_ /k/ /t/ /d/ 后面遇到辅音，失爆变弱
++++++++[#LightYellow]_ look back | that job | good night
+
+++++++[#Aquamarine] devocalize | 浊音变清音
++++++++[#LightYellow]_ 前音声带放弃震动
++++++++[#LightYellow]_ have to | of course
+
+++++++[#Aquamarine] 鼻化
++++++++[#LightYellow]_ in person | impolite | impatient
+
++++++[#LightGreen] 顺行同化
+++++++[#Aquamarine]_ 后面音受前面音的影响
++++++++[#LightYellow]_ 最主要是复数词尾 s
++++++++[#LightYellow]_ books | dogs
+
++++++[#LightGreen] 前后音相互作用
+++++++[#Aquamarine] coalescence | 融合
++++++++[#LightYellow]_ God bless you | as you wish | Nice to meet you | Did you do it?
++++++++[#LightYellow]_ educate | mutual | tissue
+++++++[#Aquamarine] gemination | 辅音延长
++++++++[#LightYellow] 相同辅音
++++++++[#LightYellow]_ life force | fish shop | black coffee
+
+
+++++[#MediumSpringGreen] dissimilation | 异化
++++++[#LightGreen] s 后的辅音变成不送气版本
+++++++[#Aquamarine] stand | stick
+++++++[#Aquamarine] sky | school
+++++++[#Aquamarine] spring | special
++++++[#LightGreen] 美式英语中的 r
+++++++[#Aquamarine] r 让之前的元音 r 化
+
+
+++++[#MediumSpringGreen] elision | 省音 | 吞音
++++++[#LightGreen] 为了省力气，忽略掉
+++++++[#Aquamarine]_ similar | family
++++++[#LightGreen] 例如 /t/ /d/ /h/ /g/
+++++++[#Aquamarine]_ debt | subtle | know | knee | write | wrong
+++++++[#Aquamarine]_ christmas | sandwich | handbag | history | factory | mathematics
+++++++[#Aquamarine]_ last year | iced cream
+++++++[#Aquamarine]_ next door | most common | must be | you and me | give me that | What's his name?
+
+
+++++[#MediumSpringGreen] reduction | weak forms | 弱读
++++++[#LightGreen] 可弱读
+++++++[#Aquamarine] 饱满元音一般弱化成中央元音
++++++++[#LightYellow]_ 介词
+++++++++[#GhostWhite]_ at | for | form | of | to
++++++++[#LightYellow]_ 冠词
+++++++++[#GhostWhite]_ an | some
++++++++[#LightYellow]_ 连词
+++++++++[#GhostWhite]_ and | but
++++++++[#LightYellow]_ 代词
+++++++++[#GhostWhite]_ you | us | them | her
++++++++[#LightYellow]_ 助动词
+++++++++[#GhostWhite]_ am | are | have | has | do | does | would | can | could | should
+
++++++[#LightGreen] 不弱读
+++++++[#Aquamarine]_ 在句子末尾
+++++++[#Aquamarine]_ 对比
+++++++[#Aquamarine]_ 强调
+
+
+++++[#MediumSpringGreen] Contraction | 缩读
++++++[#LightGreen] 缩写，多个词合成一个
+++++++[#Aquamarine]_ you're | he's | she's | I'm | I'll | I've | I've
+++++++[#Aquamarine]_ wanna | gonna | gotta | outta | kinda | a lotta
+++++++[#Aquamarine]_ dunno | gimme | would've | would'a | you 'n' I | c'mon
+++++++[#Aquamarine]_ wachya | watcha | whaddya | wadya | whatdja | wadja
+++++++[#Aquamarine]_ 口语中的万能否定词：ain't
++++++[#LightGreen] 和省音吞音分不清
+++++++[#Aquamarine]_ can't | g'bye
+
+
+
++++[#Pink] Rhythm | 节奏
+
+++++[#MediumSpringGreen] stress-timed | 重音等时性
++++++[#LightGreen] 单词中有重读音节和非重读音节
++++++[#LightGreen] 重读音节之间的时长基本相等
+++++++[#Aquamarine] Rabbits eat carrots.
+++++++[#Aquamarine] A rabbit is eating some carrots.
+++++++[#Aquamarine] The rabbit has been eating some of the carrots.
+
+
+
++++[#Pink] S | 名词复数的词尾 s
+
+++++[#MediumSpringGreen] 在 [p], [t], [k], [f] 等清辅音后发 [s]
++++++[#LightGreen]_ cups
++++++[#LightGreen]_ 在 [t] 后与 [t] 一起读成 [ts]：hats
++++++[#LightGreen]_ 在 [d] 后与 [d] 一起读成 [dz]：hands
+
+++++[#MediumSpringGreen] 其他情况下发 [z]
++++++[#LightGreen]_ s, sh, ch, x 结尾：classes | buses | boxes | watches
++++++[#LightGreen]_ 辅音 + y 结尾：countries | factories | stories | armies
++++++[#LightGreen]_ 元音 + y 结尾：boys | days
++++++[#LightGreen]_ 元音 + o 结尾：zoos | radios
++++++[#LightGreen]_ 一般 o 结尾：kilos | photos | pianos | tobaccos
++++++[#LightGreen]_ 少数 o 结尾：tomatoes | potatoes | heroes
+
+
+
+
++++[#Pink] Tone | 语调
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+
+
++++[#Pink] America | 美式
+
+++++[#MediumSpringGreen] 闪音
++++++[#LightGreen] 单词中的元音 t，经常被读作闪音
+++++++[#Aquamarine]_ water | better | little
+++++++[#Aquamarine]_ what is | it is | get up | not at all | get it out
++++++[#LightGreen] 其他情况
+++++++[#Aquamarine]_ 前面有鼻音 /n/
+++++++[#Aquamarine]_ winter | interview | want it
+++++++[#Aquamarine]_ 后面有鼻音 /n/
+++++++[#Aquamarine]_ button | cotton | written
+
+++++[#MediumSpringGreen] r 化
++++++[#LightGreen] r 结尾的单词，前面的元音会 r 化
+
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++++[#Aquamarine]_ 6
++++++++[#LightYellow]_ 7
+++++++++[#GhostWhite]_ 8
+
+++++[#AliceBlue] 4
++++++[#GhostWhite] 5
+++++++[#LightBlue] 6
+
+
+
+'英语的节奏和"等时性"(这才是中式英语的罪魁祸首!) https://www.bilibili.com/video/BV1rt4y197Dy
+'英语的语调 (如何用母语人士的"腔调"说话?) https://www.bilibili.com/video/BV1ev411i7tj
+'闪音是什么? 怎么发音? https://www.bilibili.com/video/BV1E7411N7Vw
+'[英语语音技巧] 连音(Catenation)(狭义连读) https://www.bilibili.com/video/BV1ta4y1e7gf
+'[英语语音技巧] 连读"加音"(Intrusion)到底是咋回事儿? https://www.bilibili.com/video/BV1ez411q7Dy
+'[英语语音技巧] 连读: 同化 & 异化(Assimilation & Dissimilation) https://www.bilibili.com/video/BV1PQ4y1P7g4
+'[英语语音技巧] 连读: 省音(吞音)(喜欢偷懒的进来!) https://www.bilibili.com/video/BV1wZ4y1W7gQ
+'[英语语音技巧] 连读: 弱读(超重要!) https://www.bilibili.com/video/BV11z4y197Cr
+'[英语语音技巧] 连读: 缩读 (Contraction) https://www.bilibili.com/video/BV1oK4y1x7B9
+
+
+
+@endmindmap
