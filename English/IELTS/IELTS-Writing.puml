@@ -1,0 +1,116 @@
+@startmindmap
+
++[#OrangeRed] IELTS
+
+++[#yellow] Writing
+
++++[#Pink] Dimension
+
+++++[#MediumSpringGreen] 人
+
++++++[#LightGreen] 人
+++++++[#Aquamarine] 身体健康
+++++++[#Aquamarine] 便利性
+
++++++[#LightGreen] 人口
+++++++[#Aquamarine] 文化
+++++++[#Aquamarine] 精神
+
+++++[#MediumSpringGreen] 文
+
++++++[#LightGreen] 科技
+++++++[#Aquamarine] 乐趣
+++++++[#Aquamarine] 效率
+
++++++[#LightGreen] 法律
+++++++[#Aquamarine] 权利
+++++++[#Aquamarine] 义务
+
+++++[#MediumSpringGreen] 社
+
++++++[#LightGreen] 环境
+++++++[#Aquamarine] 社会环境
+++++++[#Aquamarine] 自然环境
+
++++++[#LightGreen] 负面
+++++++[#Aquamarine] 心理健康
+++++++[#Aquamarine] 犯罪率
+
+++++[#MediumSpringGreen] 经
+
++++++[#LightGreen] 经济
+++++++[#Aquamarine] 经济发展
+++++++[#Aquamarine] 消费
+
++++++[#LightGreen] 工作
+++++++[#Aquamarine] 就业
+++++++[#Aquamarine] 竞争
+
+
++++[#Pink] Sentence
+
+++++[#MediumSpringGreen] Basic
++++++[#LightGreen] There be doing
++++++[#LightGreen] It is adj. to do
+
+++++[#MediumSpringGreen] Promotion
++++++[#LightGreen] It is adj. that
++++++[#LightGreen] 5
+
+++++[#MediumSpringGreen] Miracle
++++++[#LightGreen] 5
++++++[#LightGreen] 5
+
+
+
++++[#Pink] Conjunction
+
+++++[#MediumSpringGreen] Conclusion
++++++[#LightGreen] Therefore,
++++++[#LightGreen] Thus,
+
+++++[#MediumSpringGreen] Turn
++++++[#LightGreen] Despite
++++++[#LightGreen] Although
++++++[#LightGreen] However
+
+++++[#MediumSpringGreen] Parallel
++++++[#LightGreen] and furthermore,
++++++[#LightGreen] moreover
+
+
++++[#Pink] grammar
+
+++++[#MediumSpringGreen] 简单句
+++++[#MediumSpringGreen] 并列句
+++++[#MediumSpringGreen] 复杂句
++++++[#LightGreen] 5
++++++[#LightGreen] 5
+
+
+
+
+
+
+++[#yellow] 2
+
++++[#Pink] 3
+
+++++[#MediumSpringGreen] 4
++++++[#LightGreen] 5
+++++++[#Aquamarine] 6
++++++++[#LightYellow] 7
+++++++++[#GhostWhite] 8
+
+++++++[#Aquamarine]_ 6
++++++++[#LightYellow]_ 7
+++++++++[#GhostWhite]_ 8
+
+++++[#AliceBlue] 4
++++++[#GhostWhite] 5
+++++++[#LightBlue] 6
+
+
+
+
+@endmindmap
