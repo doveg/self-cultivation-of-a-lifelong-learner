@@ -1,0 +1,168 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] Numeral | 数词
+
++++[#Pink] 分类
+
+++++[#MediumSpringGreen] 基数词
+
++++++[#LightGreen] 数量多少
+++++++[#Aquamarine] 1 - 10
++++++++[#LightYellow]_ one | two | three | four | five
++++++++[#LightYellow]_ six | seven | eight | nine | ten
+++++++[#Aquamarine] 11 - 19
++++++++[#LightYellow]_ eleven | twelve | thirteen | fourteen | fifteen
++++++++[#LightYellow]_ sixteen | seventeen | eighteen | nineteen
+++++++[#Aquamarine] 20 - 90
++++++++[#LightYellow]_ twenty | thirty | forty | fifty
++++++++[#LightYellow]_ sixty | seventy | eighty | ninety
++++++++[#LightYellow]_ 几十几：twenty-two
+++++++[#Aquamarine] 100 +
++++++++[#LightYellow]_ hundred | thousand
++++++++[#LightYellow]_ million | billion | trillion
++++++++[#LightYellow]_ 几百几：two hundred and thirty-three
++++++++[#LightYellow]_ 几千几：three thousand one hundred and forty-seven
+
++++++[#LightGreen] 句子成分
+++++++[#Aquamarine] 主语
++++++++[#LightYellow]_ One and two is three.
+++++++[#Aquamarine] 宾语
++++++++[#LightYellow]_ It costs fifty Yuan.
+++++++[#Aquamarine] 定语
++++++++[#LightYellow]_ There are two hundred students.
+++++++[#Aquamarine] 同位语
++++++++[#LightYellow]_ You two can go with me.
+
++++++[#LightGreen] 不确切的数量
+++++++[#Aquamarine] + s
++++++++[#LightYellow]_ hundreds of | thousands of | millions of
++++++++[#LightYellow]_ tens of hundreds of | hundreds of thousands of
++++++++[#LightYellow]_ thousands of carrots | tens of thousands of carrots
+
+++++[#MediumSpringGreen] 序数词
++++++[#LightGreen] 顺序先后
+++++++[#Aquamarine] 1 - 10
++++++++[#LightYellow]_ firs | second | third | fourth | fifth
++++++++[#LightYellow]_ sixth | seventh | eighth | ninth | tenth
++++++++[#LightYellow]_ 第几：1st | 2nd | 3rd | 4th
+++++++[#Aquamarine] 11 - 19
++++++++[#LightYellow]_ eleventh | twelfth | thirteen | fourteen | fifteen
++++++++[#LightYellow]_ sixteen | seventeen | eighteen | nineteen
++++++++[#LightYellow]_ 第十几：11th | 12th | 13th
+++++++[#Aquamarine] 20 - 90
++++++++[#LightYellow]_ twentieth | thirtieth | fortieth | fiftieth
++++++++[#LightYellow]_ sixtieth | seventieth | eightieth | ninetieth
++++++++[#LightYellow]_ 第几十几：twenty-second | fifty-ninth
++++++++[#LightYellow]_ 第几十几：21st | 32nd | 43rd
+++++++[#Aquamarine] 100 +
++++++++[#LightYellow]_ hundred | thousand
++++++++[#LightYellow]_ million | billion | trillion
++++++++[#LightYellow]_ 第几百几：two hundred and fourth
++++++++[#LightYellow]_ 第几百几：321st
+
++++++[#LightGreen] 句子成分
+++++++[#Aquamarine] 主语
++++++++[#LightYellow]_ The fifth to pay the bill will get the prize.
+++++++[#Aquamarine] 宾语
++++++++[#LightYellow]_ Please give me the second.
+++++++[#Aquamarine] 定语
++++++++[#LightYellow]_ He is the 13th person to fall over this morning.
+++++++[#Aquamarine] 主语补语
++++++++[#LightYellow]_ She was the fifth to pay the bill.
+
++++++[#LightGreen] 区别
+++++++[#Aquamarine]_ the second lesson | 第二堂课
+++++++[#Aquamarine]_ lesson 2 | 第二课时
+
+
++++[#Pink] 用法
+
+++++[#MediumSpringGreen] 基数词
+
++++++[#LightGreen] 分数
+++++++[#Aquamarine] 分子为 1
++++++++[#LightYellow]_ one third
+++++++[#Aquamarine] 分子大于 1
++++++++[#LightYellow]_ three fifths
+++++++[#Aquamarine] 特殊
++++++++[#LightYellow]_ a half | one fourth | a quarter | three fourths | three quarters
+++++++[#Aquamarine] 整数加分数
++++++++[#LightYellow]_ two and one third
+
++++++[#LightGreen] 小数
+++++++[#Aquamarine]_ twelve point eight nie six
+++++++[#Aquamarine]_ one point three four
+++++++[#Aquamarine]_ zero point five seven
+
++++++[#LightGreen] 百分数
+++++++[#Aquamarine]_ twenty-five percent
+++++++[#Aquamarine]_ two point five percent
+
++++++[#LightGreen] 倍数
+++++++[#Aquamarine]_ half times | twice times | three times
+++++++[#Aquamarine] 倍数 + the + 计量 + of
++++++++[#LightYellow]_ This carrot is half times the size of that one.
+++++++[#Aquamarine] 倍数 + as - as
++++++++[#LightYellow]_ I have twice times as many as carrots as he has.
+++++++[#Aquamarine] 倍数 + 比较级 + than
++++++++[#LightYellow]_ I can eat three times faster than he can.
+++++++[#Aquamarine] by + 倍数
++++++++[#LightYellow]_ I have increased my income by three times.
+
++++++[#LightGreen] 数字符号和算术
+++++++[#Aquamarine] 加减乘除
++++++++[#LightYellow]_ 2 plus 2 is 4.
++++++++[#LightYellow]_ 4 minus 2 is 2.
++++++++[#LightYellow]_ 2 multiplied by 3 is 6. | 2 times 3 is 6.
++++++++[#LightYellow]_ 8 divided by 4 is 2.
+++++++[#Aquamarine] 平方立方
++++++++[#LightYellow]_ 2 squared is 4.
++++++++[#LightYellow]_ 2 cubed is 8.
+
++++++[#LightGreen] 单位
+
+++++++[#Aquamarine] 时间
++++++++[#LightYellow] 准点
+++++++++[#GhostWhite]_ at seven
++++++++[#LightYellow] 半小时以内
+++++++++[#GhostWhite]_ a quarter pass seven | seven fifteen
++++++++[#LightYellow] 半小时
+++++++++[#GhostWhite]_ half past seven
++++++++[#LightYellow] 超过半小时
+++++++++[#GhostWhite]_ ten to eight | seven fifty
+
+++++++[#Aquamarine] 日期
++++++++[#LightYellow]_ 12th December, 2020 | December 12th, 2020
++++++++[#LightYellow]_ 500 B.C. | 500 A.D. | 2020
+
+++++++[#Aquamarine] 年代
++++++++[#LightYellow]_ 2020's | 2020s | 1980’s | 1980s
+
+++++++[#Aquamarine] 长度
++++++++[#LightYellow] 长宽高
+++++++++[#GhostWhite]_ long | length
+++++++++[#GhostWhite]_ wide | width
+++++++++[#GhostWhite]_ high | height
++++++++[#LightYellow] 基数词 + 单位词（复数） + 长宽高（形容词）
+++++++++[#GhostWhite]_ The river is 1000 meters long.
++++++++[#LightYellow] 基数词 + 单位词（复数） + in + 长宽高（名词）
+++++++++[#GhostWhite]_ The river is 1000 meters in length.
+
+++++++[#Aquamarine] 面积和体积
++++++++[#LightYellow]_ This room is 20 by 35 meters.
++++++++[#LightYellow]_ This room is 100 square meters.
++++++++[#LightYellow]_ This box is 8 by 5 by 6 centimeters.
+
+++++++[#Aquamarine] 温度
++++++++[#LightYellow]_ 37 degrees centigrade
++++++++[#LightYellow]_ 37 degrees Celsius
++++++++[#LightYellow]_ 10 degrees below zero
++++++++[#LightYellow]_ 100 degrees Fahrenheit
+
+
+'英语语法: 数词 https://www.bilibili.com/video/BV1bU4y1w7dD
+
+
+@endmindmap
