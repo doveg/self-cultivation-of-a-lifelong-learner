@@ -1,0 +1,88 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] Article | 冠词
+
++++[#Pink] 分类
+
+++++[#MediumSpringGreen] 不定冠词 a | an
+
++++++[#LightGreen] 发音
+++++++[#LightBlue] a 用于辅音音素前
++++++++[#LightYellow]_ a rabbit | a university
+++++++[#LightBlue] an 用于元音音素前
++++++++[#LightYellow]_ an apple | an hour
+
++++++[#LightGreen] 用法
+++++++[#Aquamarine] 泛指：某一个人或物
++++++++[#LightYellow]_ I saw a rabbit.
+++++++[#Aquamarine] 泛指：某一类
++++++++[#LightYellow]_ A rabbit is smarter than a wolf.
++++++++[#LightYellow]_ A rabbit is smarter.
+++++++[#Aquamarine] 表示数字 1
++++++++[#LightYellow]_ I gave you a hundred carrots.
++++++++[#LightYellow]_ I gave you one hundred carrots.
+++++++[#Aquamarine] 表示”每“
++++++++[#LightYellow]_ I eat 10 carrots a day.
+++++++[#Aquamarine] 主谓一致
++++++++[#LightYellow]_ a teacher and video creator.
++++++++[#LightYellow]_ a teacher and a video creator.
+++++++[#Aquamarine] 固定表达
++++++++[#LightYellow]_ have a good time | as a result | in a hurry | all of a sudden
+
+++++[#MediumSpringGreen] 定冠词 the
+
++++++[#LightGreen] 发音
+++++++[#LightBlue] |ðə| 用于辅音音素前
++++++++[#LightYellow]_ the rabbit | the university
+++++++[#LightBlue] |ði| 用于元音音素前
++++++++[#LightYellow]_ the apple | the hour
+
++++++[#LightGreen] 用法
+++++++[#Aquamarine] 特指：特定的人或物
+++++++[#Aquamarine] 特指：再次提到的人或物
++++++++[#LightYellow]_ I saw a rabbit. The rabbit ran fast.
+++++++[#Aquamarine] 特指：序数词和形容词的最高级
++++++++[#LightYellow]_ the first rabbit | the biggest rabbit
+++++++[#Aquamarine] 特指：独一无二的存在
++++++++[#LightYellow]_ the sun | the moon | the earth | the Great Wall
+++++++[#Aquamarine] 泛指
++++++++[#LightYellow]_ I like playing the piano.
++++++++[#LightYellow]_ play the guitar | play the violin | play the flute
++++++++[#LightYellow]_ The computer has changed our way of life.
+++++++[#Aquamarine] 在形容词前
++++++++[#LightYellow]_ the rich | the poor
+++++++[#Aquamarine] 固定表达
++++++++[#LightYellow]_ all the time | by the way | out of the question
+
+
+++++[#MediumSpringGreen] 零冠词
+
++++++[#LightGreen] 用法
+
+++++++[#Aquamarine] 复数泛指
++++++++[#LightYellow]_ Rabbits are smarter than wolves.
++++++++[#LightYellow]_ Computers has changed our way of life.
++++++++[#LightYellow]_ Water is important.
++++++++[#LightYellow]_ We breathe air.
+
+++++++[#Aquamarine] 泛指概念
++++++++[#LightYellow]_ Summer is hot. Winter is cold.
++++++++[#LightYellow]_ I want to play football.
++++++++[#LightYellow]_ I like geography.
++++++++[#LightYellow]_ in spring | in August | on Monday | on National Day
+
+++++++[#Aquamarine] 专有名词
++++++++[#LightYellow]_ Papa rabbit
+
+++++++[#Aquamarine] 固定用法
++++++++[#LightYellow]_ from time to time | face to face | out of question
+
+
+
+'英语语法: 冠词 https://www.bilibili.com/video/BV11g41157FC
+
+
+
+@endmindmap
