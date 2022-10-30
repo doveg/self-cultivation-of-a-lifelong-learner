@@ -1,0 +1,54 @@
+@startmindmap
+
++[#OrangeRed] Grammar
+
+++[#yellow] Noun | 名词
+
++++[#Pink] 名词分类
+
+++++[#MediumSpringGreen] 普通名词
+
++++++[#LightGreen] 可数名词
+++++++[#Aquamarine] 个体名词
++++++++[#LightYellow]_ rabbits | carrots
++++++++[#LightYellow]_ international waters | 国际水域
+++++++[#Aquamarine] 集合名词
++++++++[#LightYellow]_ team | audience | fruit | police | people | baggage | furniture
++++++++[#LightYellow]_ team 既可指一个团队，也可指团队中的所有成员
+
++++++[#LightGreen] 不可数名词
+++++++[#Aquamarine] 抽象
++++++++[#LightYellow]_ peace | honesty | pleasure
+++++++[#Aquamarine] 物质（数不清）
++++++++[#LightYellow]_ water | air | beer | air | wood | paper
+
+++++[#MediumSpringGreen]  专有名词
++++++[#LightGreen] 独一无二
+++++++[#Aquamarine]_ Earth, Asia, New Year
++++++[#LightGreen] 某些语境下可数
+
+++++[#MediumSpringGreen] 所有格
++++++[#LightGreen] -‘s
+++++++[#Aquamarine] 强调所属权（有生命的）
++++++++[#LightYellow]_ Tom and Jerry's room | Tom's and Jerry's rooms
+++++++[#Aquamarine] 表示限定修饰，某种性质
++++++++[#LightYellow]_ Today's news
++++++[#LightGreen] - of -
+++++++[#Aquamarine] 强调限定修饰，无生命事物之前
++++++++[#LightYellow]_ the news of today
++++++[#LightGreen] 双重所有格
+++++++[#Aquamarine]_ I am one of Micheal's friends.
+
+++++[#MediumSpringGreen] 单复数
++++++[#LightGreen] 单数名词
++++++[#LightGreen] 复数名词
+++++++[#Aquamarine] 一般词尾加 s
+++++++[#Aquamarine] 单数变复数规则复杂
+
+
+
+'英语语法: 名词 https://www.bilibili.com/video/BV1tQ4y1r7NC
+
+
+
+@endmindmap
